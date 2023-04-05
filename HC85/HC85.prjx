@@ -1,0 +1,340 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "D:\project\program\QUARTUS\eda\HC85"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "HC85::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\HC85\HC85.cxf,actgen_cxf"
+STATE="utd"
+TIME="1671344896"
+SIZE="620"
+ENDFILE
+VALUE "<project>\component\work\HC85_Smart\HC85_Smart.cxf,actgen_cxf"
+STATE="utd"
+TIME="1671348331"
+SIZE="965"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85.adb,adb"
+STATE="utd"
+TIME="1671382751"
+SIZE="37888"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85.ide_des,ide_des"
+STATE="utd"
+TIME="1671363798"
+SIZE="191"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1671382765"
+SIZE="19535"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85_ba.v,ba_hdl"
+STATE="utd"
+TIME="1671382926"
+SIZE="8950"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85_ba_log.rpt,log"
+STATE="utd"
+TIME="1671382926"
+SIZE="760"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85_compile_log.rpt,log"
+STATE="utd"
+TIME="1671382866"
+SIZE="7004"
+ENDFILE
+VALUE "<project>\designer\impl1\HC85_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1671382906"
+SIZE="2367"
+ENDFILE
+VALUE "<project>\hdl\HC85.v,hdl"
+STATE="utd"
+TIME="1671347401"
+SIZE="1476"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1671363803"
+SIZE="662"
+ENDFILE
+VALUE "<project>\simulation\testbench_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1671382771"
+SIZE="68"
+ENDFILE
+VALUE "<project>\simulation\testbench_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1671364038"
+SIZE="2461"
+ENDFILE
+VALUE "<project>\simulation\testbench_presynth_simulation.log,log"
+STATE="utd"
+TIME="1671350388"
+SIZE="2141"
+ENDFILE
+VALUE "<project>\stimulus\testbench.v,tb_hdl"
+STATE="utd"
+TIME="1671349693"
+SIZE="2209"
+ENDFILE
+VALUE "<project>\synthesis\HC85.edn,syn_edn"
+STATE="utd"
+TIME="1671362664"
+SIZE="23887"
+ENDFILE
+VALUE "<project>\synthesis\HC85.so,so"
+STATE="utd"
+TIME="1671362664"
+SIZE="213"
+ENDFILE
+VALUE "<project>\synthesis\HC85.v,syn_hdl"
+STATE="utd"
+TIME="1671363802"
+SIZE="7211"
+ENDFILE
+VALUE "<project>\synthesis\HC85_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1671362664"
+SIZE="310"
+ENDFILE
+VALUE "<project>\synthesis\HC85_syn.prj,prj"
+STATE="utd"
+TIME="1671362724"
+SIZE="1437"
+ENDFILE
+ENDLIST
+LIST UsedFile
+VALUE "<project>\hdl\HC85.v,HC85"
+ENDLIST
+LIST NewModulesInfo
+LIST "HC85::work"
+FILE "<project>\hdl\HC85.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\HC85.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\HC85.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\HC85_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\HC85_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST HC85
+VALUE "<project>\stimulus\testbench.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\synplify_pro.exe"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Modelsim\win32acoem\modelsim.exe"
+PARAM=" -l testbench_postlayout_simulation.log "
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "HC85::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\HC85.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\HC85.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Export Back Annotated Files:HC85_ba_log.rpt
+StartPage;StartPage;0
+HDL;hdl\HC85.v;0
+SmartDesign;HC85_Smart;0
+HDL;stimulus\testbench.v;0
+ACTIVEVIEW;Reports
+ENDLIST
+LIST ModuleSubBlockList
+LIST "HC85::work","hdl\HC85.v","FALSE","FALSE"
+ENDLIST
+LIST "HC85_Smart::work","component\work\HC85_Smart\HC85_Smart.cxf","TRUE","FALSE"
+SUBBLOCK "HC85::work","hdl\HC85.v","FALSE","FALSE"
+ENDLIST
+LIST "testbench::work","stimulus\testbench.v","FALSE","TRUE"
+SUBBLOCK "HC85::work","hdl\HC85.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "HC85::work"
+ACTIVETESTBENCH "testbench::work","stimulus\testbench.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

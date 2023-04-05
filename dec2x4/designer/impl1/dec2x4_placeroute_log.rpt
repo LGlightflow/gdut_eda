@@ -1,0 +1,81 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+Info: The design dec2x4.adb was last modified by software version 11.9.0.4.
+Opened an existing Libero design dec2x4.adb.
+'BA_NAME' set to 'dec2x4_ba'
+'IDE_DESIGNERVIEW_NAME' set to 'Impl1'
+'IDE_DESIGNERVIEW_COUNT' set to '1'
+'IDE_DESIGNERVIEW_REV0' set to 'Impl1'
+'IDE_DESIGNERVIEW_REVNUM0' set to '1'
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'D:\project\program\QUARTUS\eda\dec2x4\designer'
+'IDE_DESIGNERVIEW_LASTREV' set to '1'
+***** Layout Variables *********************************************
+
+Mode: TIMING_DRIVEN
+Power-driven Layout: OFF
+Incremental Placement: OFF
+Incremental Route: OFF
+
+
+
+Running I/O Bank Assigner.
+
+I/O Bank Assigner completed successfully.
+ 
+
+Planning global net placement...
+
+Global net placement completed successfully.
+
+                        o - o - o - o - o - o
+
+Timing-driven Placer Started: Mon Dec 19 14:35:08 2022
+
+Placer Finished: Mon Dec 19 14:35:09 2022
+Total Placer CPU Time:     00:00:01
+
+                        o - o - o - o - o - o
+
+
+Timing-driven Router 
+Design: dec2x4                          Started: Mon Dec 19 14:35:10 2022
+
+ 
+
+Timing-driven Router completed successfully.
+
+Design: dec2x4                          
+Finished: Mon Dec 19 14:35:13 2022
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:03
+Total Memory Usage: 106.3 Mbytes
+                        o - o - o - o - o - o
+
+Loading the Timing data for the design.
+Finished loading the Timing data.
+
+The Layout command succeeded ( 00:00:08 )
+Wrote status report to file: dec2x4_place_and_route_report.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote globalnet report to file: dec2x4_globalnet_report.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote globalusage report to file: dec2x4_globalusage_report.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote iobank report to file: dec2x4_iobank_report.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote pin report to file: dec2x4_report_pin_byname.txt
+
+The Report command succeeded ( 00:00:01 )
+Wrote pin report to file: dec2x4_report_pin_bynumber.txt
+
+The Report command succeeded ( 00:00:01 )
+Design saved to file D:\project\program\QUARTUS\eda\dec2x4\designer\impl1\dec2x4.adb.
+
+The Execute Script command succeeded ( 00:00:11 )
+Design closed.
+

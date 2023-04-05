@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/HC112/simulation
+vHC112
+Z1 !s110 1671381222
+!i10b 1
+!s100 b9SjfE2nW:mK;V8^KK;031
+IZDe6lfmUkhK5NJY34?=b00
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671381207
+8D:/project/program/QUARTUS/eda/HC112/designer/impl1/HC112_ba.v
+FD:/project/program/QUARTUS/eda/HC112/designer/impl1/HC112_ba.v
+L0 6
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1671381222.000000
+!s107 D:/project/program/QUARTUS/eda/HC112/designer/impl1/HC112_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/HC112/designer/impl1/HC112_ba.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work postlayout -O0
+Z6 tCvgOpt 0
+n@h@c112
+vtestbench
+R1
+!i10b 1
+!s100 X=2iBRz8<gaXUAbT<OG_W2
+IVF8`7Z>OjR^[iH2F]>G:83
+R2
+R0
+w1671374005
+8D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/HC112/stimulus|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+D:/project/program/QUARTUS/eda/HC112/stimulus -vlog01compat -work postlayout -O0
+R6

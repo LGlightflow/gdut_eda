@@ -1,0 +1,16 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  D:\project\program\QUARTUS\eda\dec2x4\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile D:\project\program\QUARTUS\eda\dec2x4\synthesis\synlog\report\dec2x4_fpga_mapper.xml  -licensetype  synplifypro_actel  -flow mapping  -mp  4  -prjfile  D:\project\program\QUARTUS\eda\dec2x4\synthesis\scratchproject.prs  -implementation  synthesis  -multisrs  -oedif  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.edn   -freq 100.000   D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_prem.srd  -sap  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.sap  -otap  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.tap  -omap  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.map  -devicelib  C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -sap  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.sap  -ologparam  D:\project\program\QUARTUS\eda\dec2x4\synthesis\syntmp\dec2x4.plg  -osyn  D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.srm  -prjdir  D:\project\program\QUARTUS\eda\dec2x4\synthesis\  -prjname  dec2x4_syn  -log  D:\project\program\QUARTUS\eda\dec2x4\synthesis\synlog\dec2x4_fpga_mapper.srr 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\dec2x4_fpga_mapper.xml -licensetype synplifypro_actel -flow mapping -mp 4 -prjfile ..\scratchproject.prs -implementation synthesis -multisrs -oedif ..\dec2x4.edn -freq 100.000 ..\synwork\dec2x4_prem.srd -sap ..\dec2x4.sap -otap ..\dec2x4.tap -omap ..\dec2x4.map -devicelib C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -sap ..\dec2x4.sap -ologparam dec2x4.plg -osyn ..\dec2x4.srm -prjdir ..\ -prjname dec2x4_syn -log ..\synlog\dec2x4_fpga_mapper.srr
+rc:0 success:1 runtime:1
+file:..\scratchproject.prs|io:o|time:1671431696|size:1712|exec:0|csum:
+file:..\dec2x4.edn|io:o|time:1671431700|size:7546|exec:0|csum:
+file:..\synwork\dec2x4_prem.srd|io:i|time:1671431699|size:1764|exec:0|csum:B148B9E69C48103785698AA8F93447B1
+file:..\dec2x4.sap|io:o|time:1671431699|size:116|exec:0|csum:
+file:..\dec2x4.tap|io:o|time:0|size:0|exec:0|csum:
+file:..\dec2x4.map|io:o|time:1671431700|size:28|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\dec2x4.sap|io:o|time:1671431699|size:116|exec:0|csum:
+file:dec2x4.plg|io:o|time:1671431700|size:97|exec:0|csum:
+file:..\dec2x4.srm|io:o|time:1671431700|size:64587|exec:0|csum:
+file:..\synlog\dec2x4_fpga_mapper.srr|io:o|time:1671431700|size:7491|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

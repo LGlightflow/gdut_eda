@@ -1,0 +1,739 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "IND"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "IND"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "IND"
+KEY ProjectLocation "D:\project\program\QUARTUS\eda\Adders_Smart"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "adder_3::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\adders\adders.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668235244"
+SIZE="2531"
+ENDFILE
+VALUE "<project>\component\work\adders\adders.v,hdl"
+STATE="utd"
+TIME="1668233295"
+SIZE="2650"
+PARENT="<project>\component\work\adders\adders.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\adder_2\adder_2.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668239043"
+SIZE="3099"
+ENDFILE
+VALUE "<project>\component\work\adder_2\adder_2.v,hdl"
+STATE="utd"
+TIME="1668239020"
+SIZE="3570"
+PARENT="<project>\component\work\adder_2\adder_2.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\adder_3\adder_3.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668239767"
+SIZE="3007"
+ENDFILE
+VALUE "<project>\component\work\adder_3\adder_3.v,hdl"
+STATE="utd"
+TIME="1668239767"
+SIZE="3570"
+PARENT="<project>\component\work\adder_3\adder_3.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668231111"
+SIZE="437"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_IO\DESIGN_IO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668233295"
+SIZE="413"
+ENDFILE
+VALUE "<project>\designer\impl1\adders.adb,adb"
+STATE="ood"
+TIME="1668234463"
+SIZE="31232"
+ENDFILE
+VALUE "<project>\designer\impl1\adders.ide_des,ide_des"
+STATE="utd"
+TIME="1668234463"
+SIZE="972"
+ENDFILE
+VALUE "<project>\designer\impl1\adders.pdb,pdb"
+STATE="ood"
+TIME="1668234411"
+SIZE="14752"
+ENDFILE
+VALUE "<project>\designer\impl1\adders.stp,stp"
+STATE="ood"
+TIME="1668234452"
+SIZE="50686"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1668234401"
+SIZE="7091"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_ba.v,ba_hdl"
+STATE="ood"
+TIME="1668234401"
+SIZE="2698"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_compile_log.rpt,log"
+STATE="utd"
+TIME="1668234062"
+SIZE="6838"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_fp\adders.pro,pro"
+STATE="utd"
+TIME="1669812123"
+SIZE="2418"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_fp\projectData\adders.pdb,pdb"
+STATE="utd"
+TIME="1668234453"
+SIZE="14752"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_ibis_log.rpt,log"
+STATE="utd"
+TIME="1668234463"
+SIZE="608"
+ENDFILE
+VALUE "<project>\designer\impl1\adders_pinrpt_log.rpt,log"
+STATE="utd"
+TIME="1668234458"
+SIZE="801"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2.adb,adb"
+STATE="utd"
+TIME="1668239568"
+SIZE="35328"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2.ide_des,ide_des"
+STATE="utd"
+TIME="1668239568"
+SIZE="978"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1668239568"
+SIZE="12017"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2_ba.v,ba_hdl"
+STATE="utd"
+TIME="1668239568"
+SIZE="4290"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2_ba_log.rpt,log"
+STATE="utd"
+TIME="1668239568"
+SIZE="794"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2_compile_log.rpt,log"
+STATE="utd"
+TIME="1668239456"
+SIZE="7459"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_2_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1668239469"
+SIZE="2413"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3.adb,adb"
+STATE="utd"
+TIME="1669812848"
+SIZE="45056"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3.ide_des,ide_des"
+STATE="utd"
+TIME="1669812848"
+SIZE="977"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3.pdb,pdb"
+STATE="utd"
+TIME="1669812990"
+SIZE="15505"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1669812978"
+SIZE="12067"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3_ba.v,ba_hdl"
+STATE="utd"
+TIME="1669812978"
+SIZE="4290"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3_compile_log.rpt,log"
+STATE="utd"
+TIME="1669812153"
+SIZE="7244"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1669812848"
+SIZE="2413"
+ENDFILE
+VALUE "<project>\designer\impl1\adder_3_timingconstraints_log.rpt,log"
+STATE="utd"
+TIME="1669814030"
+SIZE="1168"
+ENDFILE
+VALUE "<project>\designer\impl1\FA_behav2.ide_des,ide_des"
+STATE="utd"
+TIME="1668235954"
+SIZE="204"
+ENDFILE
+VALUE "<project>\designer\impl1\halfadder.ide_des,ide_des"
+STATE="utd"
+TIME="1668236432"
+SIZE="204"
+ENDFILE
+VALUE "<project>\hdl\Fadd1.v,hdl"
+STATE="utd"
+TIME="1668236224"
+SIZE="156"
+ENDFILE
+VALUE "<project>\hdl\halfadder.v,hdl"
+STATE="utd"
+TIME="1668231416"
+SIZE="729"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1669899035"
+SIZE="896"
+ENDFILE
+VALUE "<project>\simulation\testbench3_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1669812692"
+SIZE="4386"
+ENDFILE
+VALUE "<project>\simulation\testbench3_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1669812631"
+SIZE="2920"
+ENDFILE
+VALUE "<project>\simulation\testbench3_presynth_simulation.log,log"
+STATE="utd"
+TIME="1669899108"
+SIZE="3858"
+ENDFILE
+VALUE "<project>\simulation\testbench_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1668234069"
+SIZE="2662"
+ENDFILE
+VALUE "<project>\simulation\testbench_presynth_simulation.log,log"
+STATE="utd"
+TIME="1668233708"
+SIZE="3267"
+ENDFILE
+VALUE "<project>\smartgen\Core_adder\Core_adder.cxf,actgen_cxf"
+STATE="utd"
+TIME="1668237808"
+SIZE="1702"
+ENDFILE
+VALUE "<project>\smartgen\Core_adder\Core_adder.gen,gen"
+STATE="utd"
+TIME="1668237805"
+SIZE="426"
+PARENT="<project>\smartgen\Core_adder\Core_adder.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\Core_adder\Core_adder.log,log"
+STATE="utd"
+TIME="1668237807"
+SIZE="1494"
+PARENT="<project>\smartgen\Core_adder\Core_adder.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\Core_adder\Core_adder.v,hdl"
+STATE="utd"
+TIME="1668237807"
+SIZE="1293"
+PARENT="<project>\smartgen\Core_adder\Core_adder.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\stimulus\testbench.v,tb_hdl"
+STATE="utd"
+TIME="1668233484"
+SIZE="379"
+ENDFILE
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+STATE="utd"
+TIME="1668235136"
+SIZE="310"
+ENDFILE
+VALUE "<project>\stimulus\testbench3.v,tb_hdl"
+STATE="utd"
+TIME="1669812561"
+SIZE="422"
+ENDFILE
+VALUE "<project>\synthesis\adders.edn,syn_edn"
+STATE="ood"
+TIME="1668234188"
+SIZE="9926"
+ENDFILE
+VALUE "<project>\synthesis\adders.so,so"
+STATE="utd"
+TIME="1668234188"
+SIZE="225"
+ENDFILE
+VALUE "<project>\synthesis\adders.v,syn_hdl"
+STATE="ood"
+TIME="1668233760"
+SIZE="1598"
+ENDFILE
+VALUE "<project>\synthesis\adders_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1668234188"
+SIZE="310"
+ENDFILE
+VALUE "<project>\synthesis\adders_syn.prj,prj"
+STATE="utd"
+TIME="1669811144"
+SIZE="1653"
+ENDFILE
+VALUE "<project>\synthesis\adder_2.edn,syn_edn"
+STATE="utd"
+TIME="1668239449"
+SIZE="16578"
+ENDFILE
+VALUE "<project>\synthesis\adder_2.so,so"
+STATE="utd"
+TIME="1668239449"
+SIZE="227"
+ENDFILE
+VALUE "<project>\synthesis\adder_2.v,syn_hdl"
+STATE="utd"
+TIME="1668239604"
+SIZE="3180"
+ENDFILE
+VALUE "<project>\synthesis\adder_2_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1668239449"
+SIZE="310"
+ENDFILE
+VALUE "<project>\synthesis\adder_2_syn.prj,prj"
+STATE="utd"
+TIME="1669811144"
+SIZE="2099"
+ENDFILE
+VALUE "<project>\synthesis\adder_3.edn,syn_edn"
+STATE="utd"
+TIME="1669810945"
+SIZE="16578"
+ENDFILE
+VALUE "<project>\synthesis\adder_3.so,so"
+STATE="utd"
+TIME="1669810945"
+SIZE="227"
+ENDFILE
+VALUE "<project>\synthesis\adder_3.v,syn_hdl"
+STATE="utd"
+TIME="1669810955"
+SIZE="3180"
+ENDFILE
+VALUE "<project>\synthesis\adder_3_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1669810945"
+SIZE="310"
+ENDFILE
+VALUE "<project>\synthesis\adder_3_syn.prj,prj"
+STATE="utd"
+TIME="1669811144"
+SIZE="2099"
+ENDFILE
+VALUE "<project>\synthesis\halfadder.edn,syn_edn"
+STATE="ood"
+TIME="1668236391"
+SIZE="5061"
+ENDFILE
+VALUE "<project>\synthesis\halfadder.so,so"
+STATE="utd"
+TIME="1668236391"
+SIZE="231"
+ENDFILE
+VALUE "<project>\synthesis\halfadder.v,syn_hdl"
+STATE="ood"
+TIME="1668236435"
+SIZE="535"
+ENDFILE
+VALUE "<project>\synthesis\halfadder_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1668236391"
+SIZE="310"
+ENDFILE
+VALUE "<project>\synthesis\halfadder_syn.prj,prj"
+STATE="utd"
+TIME="1669811144"
+SIZE="2064"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "adder_2::work"
+FILE "<project>\component\work\adder_2\adder_2.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench3.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\adder_2.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\adder_2.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\adder_2_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\adder_2_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "adder_3::work"
+FILE "<project>\component\work\adder_3\adder_3.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench3.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\adder_3.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\adder_3.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\adder_3_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\adder_3_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "adders::work"
+FILE "<project>\component\work\adders\adders.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\adders_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\adders_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "halfadder::work"
+FILE "<project>\hdl\halfadder.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST adders
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST halfadder
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST adder_3
+VALUE "<project>\stimulus\testbench3.v,tb_hdl"
+ENDLIST
+LIST adder_2
+VALUE "<project>\stimulus\testbench3.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench3
+TopInstanceName=testadder_3
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\synplify_pro.exe"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Modelsim\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "adder_2::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\adder_2.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\adder_2.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "adder_3::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\adder_3.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\adder_3.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "adders::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "halfadder::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+StartPage;StartPage;0
+ACTIVEVIEW;StartPage
+ENDLIST
+LIST ModuleSubBlockList
+LIST "adder_2::work","component\work\adder_2\adder_2.v","TRUE","FALSE"
+SUBBLOCK "Core_adder::work","smartgen\Core_adder\Core_adder.v","TRUE","FALSE"
+SUBBLOCK "FA_behav2::work","hdl\Fadd1.v","FALSE","FALSE"
+SUBBLOCK "halfadder::work","hdl\halfadder.v","FALSE","FALSE"
+ENDLIST
+LIST "adder_3::work","component\work\adder_3\adder_3.v","TRUE","FALSE"
+SUBBLOCK "Core_adder::work","smartgen\Core_adder\Core_adder.v","TRUE","FALSE"
+SUBBLOCK "FA_behav2::work","hdl\Fadd1.v","FALSE","FALSE"
+SUBBLOCK "halfadder::work","hdl\halfadder.v","FALSE","FALSE"
+ENDLIST
+LIST "adders::work","component\work\adders\adders.v","TRUE","FALSE"
+SUBBLOCK "FA_behav2::work","hdl\Fadd1.v","FALSE","FALSE"
+SUBBLOCK "halfadder::work","hdl\halfadder.v","FALSE","FALSE"
+ENDLIST
+LIST "Core_adder::work","smartgen\Core_adder\Core_adder.v","TRUE","FALSE"
+ENDLIST
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+ENDLIST
+LIST "DESIGN_IO::work","component\work\DESIGN_IO\DESIGN_IO.cxf","TRUE","FALSE"
+ENDLIST
+LIST "FA_behav2::work","hdl\Fadd1.v","FALSE","FALSE"
+ENDLIST
+LIST "halfadder::work","hdl\halfadder.v","FALSE","FALSE"
+ENDLIST
+LIST "testbench::work","stimulus\testbench.v","FALSE","TRUE"
+SUBBLOCK "adders::work","component\work\adders\adders.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench2::work","stimulus\testbench2.v","FALSE","TRUE"
+SUBBLOCK "adder_2::work","component\work\adder_2\adder_2.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench3::work","stimulus\testbench3.v","FALSE","TRUE"
+SUBBLOCK "adder_3::work","component\work\adder_3\adder_3.v","TRUE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "adders::work"
+ACTIVETESTBENCH "testbench2::work","stimulus\testbench2.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

@@ -1,0 +1,60 @@
+FlashPro
+Version: 11.9.0.4
+Release: v11.9
+
+Software Version: 11.9.0.4
+PDB file 'D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders.pdb' has been loaded
+successfully.
+DESIGN : adders;  CHECKSUM : 4203;  PDB_VERSION : 1.9
+programmer 'S2001K87ZH' : FlashPro5
+Opened 'D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders_fp\adders.pro'
+Rescanning for Programmers...
+programmer 'S2001K87ZH' : FlashPro5
+Rescanning for Programmers DONE.
+PDB file 'D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders.pdb' has been loaded
+successfully.
+DESIGN : adders;  CHECKSUM : 4203;  PDB_VERSION : 1.9
+Rescanning for Programmers...
+programmer 'S2001K87ZH' : FlashPro5
+Rescanning for Programmers DONE.
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = 4203
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 20:30:21 2022 (Elapsed time 00:00:28)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+PDB file
+'D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders_fp\projectData\adders.pdb'
+has been loaded successfully.
+DESIGN : adders;  CHECKSUM : 4203;  PDB_VERSION : 1.9
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = 4203
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 20:33:12 2022 (Elapsed time 00:00:27)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+Warning: Project 'adders' has been modified. Do you want to save it? [YES]
+Project saved.
+Project closed.

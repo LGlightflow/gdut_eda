@@ -1,0 +1,27 @@
+Target Part: A3P060_VQFP100_STD
+Report for cell Verilog2.verilog
+  Core Cell usage:
+              cell count     area count*area
+               GND     1      0.0        0.0
+            MIN3XI     1      1.0        1.0
+               VCC     1      0.0        0.0
+
+
+                   -----          ----------
+             TOTAL     3                 1.0
+
+
+  IO Cell usage:
+              cell count
+             INBUF     3
+            OUTBUF     1
+                   -----
+             TOTAL     4
+
+
+Core Cells         : 1 of 1536 (0%)
+IO Cells           : 4
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 4 (0%)
+

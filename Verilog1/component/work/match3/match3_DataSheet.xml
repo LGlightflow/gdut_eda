@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="datasheet.xsl"?>
+<datasheet>
+  <header>match3</header>
+  <project-settings>
+    <fam>ProASIC3</fam>
+    <die>A3P060</die>
+    <package>100 VQFP</package>
+    <speed-grade>STD</speed-grade>
+    <voltage>1.5</voltage>
+    <hdl-type>Verilog</hdl-type>
+    <project-description>
+    </project-description>
+    <location>D:/project/program/QUARTUS/eda/Verilog1/component/work/match3</location>
+    <state>GENERATED ( Fri Dec 16 23:20:14 2022 )</state>
+    <swide-toolchain>SoftConsole workspace has not been generated</swide-toolchain>
+  </project-settings>
+  <site-map>
+  </site-map>
+  <fileset>
+    <name>HDL File(s)</name>
+    <file>D:\project\program\QUARTUS\eda\Verilog1\component\work\match2\match2.v</file>
+    <file>D:\project\program\QUARTUS\eda\Verilog1\component\work\match3\match3.v</file>
+    <file>D:\project\program\QUARTUS\eda\Verilog1\hdl\Verilog1.v</file>
+  </fileset>
+  <io>
+    <port-name>B</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Y</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>C</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>NAND2</core-exttype>
+    <core-name>NAND2_0</core-name>
+  </core>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>NAND2</core-exttype>
+    <core-name>NAND2_1</core-name>
+  </core>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>NAND2</core-exttype>
+    <core-name>NAND2_2</core-name>
+  </core>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>NAND3</core-exttype>
+    <core-name>NAND3_0</core-name>
+  </core>
+  <memorysystem>
+    <title>Memory Map for match3</title>
+    <description>The project does not contain any subsystems.</description>
+  </memorysystem>
+</datasheet>

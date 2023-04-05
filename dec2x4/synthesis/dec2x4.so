@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SynplifyOutput>
+	<result>Success</result>
+	<design>dec2x4</design>
+	<target_edif>D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.edn</target_edif>
+</SynplifyOutput>

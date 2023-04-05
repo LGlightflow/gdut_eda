@@ -1,0 +1,16 @@
+Project Name: Adders_Smart
+Location: D:\project\program\QUARTUS\eda\Adders_Smart
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : A3P060-VQ100I
+Family         : ProASIC3
+Die            : A3P060
+Package        : 100 VQFP
+Speed          : STD
+Core Voltage   : 1.5
+Range          : IND

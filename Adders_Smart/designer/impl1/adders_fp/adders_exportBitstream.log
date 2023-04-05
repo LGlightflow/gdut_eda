@@ -1,0 +1,19 @@
+Software Version: 11.9.0.4
+creating folder: D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders_fp
+Created new project
+'D:/project/program/QUARTUS/eda/Adders_Smart/designer/impl1/adders_fp\adders.pro'
+The 'new_project' command succeeded.
+PDB file 'D:/project/program/QUARTUS/eda/Adders_Smart/designer/impl1/adders.pdb' has been loaded
+successfully.
+DESIGN : adders;  CHECKSUM : 4203;  PDB_VERSION : 1.9
+The 'set_programming_file' command succeeded.
+Exported single device STAPL file
+'D:/project/program/QUARTUS/eda/Adders_Smart/designer/impl1/adders.stp' successfully.
+Finished: Sat Nov 12 14:27:32 2022 (Elapsed time 00:00:00)
+
+The 'export_single_stapl' command succeeded.
+creating folder:
+D:\project\program\QUARTUS\eda\Adders_Smart\designer\impl1\adders_fp\projectData
+Project saved.
+The 'save_project' command succeeded.
+Project closed.

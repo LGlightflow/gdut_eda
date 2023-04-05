@@ -1,0 +1,114 @@
+(DELAYFILE
+(SDFVERSION "OVI 2.1")
+(DESIGN "cnt121")
+(DATE "123")
+(VENDOR "ProASIC3")
+(PROGRAM "Synplify")
+(VERSION "mapact, Build 2172R")
+(DIVIDER /)
+(VOLTAGE 2.500000:2.500000:2.500000)
+(PROCESS "TYPICAL")
+(TEMPERATURE 70.000000:70.000000:70.000000)
+(TIMESCALE 1ns)
+(CELL
+  (CELLTYPE "cnt121")
+  (INSTANCE)
+  (TIMINGCHECK
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n1/C  HC161_1/Q_n1/Y  HC161_1/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[3\]/CLK  HC161_0/Q\[3\]/Q  And4in_0/Start/B  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  And4in_0/Start/A  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_0/Q_n2/C  HC161_0/Q_n2/Y  HC161_0/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_1/Qlde/C  HC161_1/Qlde/Y  HC161_1/Q\[3\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_1/Qlde/C  HC161_1/Qlde/Y  HC161_1/Q\[1\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_1/Qlde/C  HC161_1/Qlde/Y  HC161_1/Q\[0\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_1/Q\[2\]/CLK  HC161_1/Q\[2\]/Q  And4in_0/AND2_Result/B  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[2\]/CLK  HC161_1/Q\[2\]/Q  And4in_0/AND2_Result/B  And4in_0/AND2_Result/Y  HC161_0/Q_6/B  HC161_0/Q_6/Y  HC161_1/Q_n3/C  HC161_1/Q_n3/Y  HC161_1/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_c1/A  HC161_0/Q_c1/Y  HC161_0/Q_6/A  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_n2/A  HC161_0/Q_n2/Y  HC161_0/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[1\]/CLK  HC161_0/Q\[1\]/Q  HC161_0/Q_c1/B  HC161_0/Q_c1/Y  HC161_0/Q_6/A  HC161_0/Q_6/Y  HC161_1/Q_n2/C  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_1/Q_m1_e_0/C  HC161_1/Q_m1_e_0/Y  HC161_1/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_n0/B  HC161_0/Q_n0/Y  HC161_0/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_n1/C  HC161_0/Q_n1/Y  HC161_0/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  HC161_0/Q_n3/C  HC161_0/Q_n3/Y  HC161_0/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_c1/A  HC161_0/Q_c1/Y  HC161_0/Q_8_0/B  HC161_0/Q_8_0/Y  HC161_0/Q_n3/A  HC161_0/Q_n3/Y  HC161_0/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_c1/A  HC161_0/Q_c1/Y  HC161_1/Qlde/B  HC161_1/Qlde/Y  HC161_1/Q\[3\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_c1/A  HC161_0/Q_c1/Y  HC161_1/Qlde/B  HC161_1/Qlde/Y  HC161_1/Q\[2\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  HC161_1/Q_c1/B  HC161_1/Q_c1/Y  HC161_1/Q_8_0/B  HC161_1/Q_8_0/Y  HC161_1/Q_n3/B  HC161_1/Q_n3/Y  HC161_1/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  HC161_1/Q_c1/A  HC161_1/Q_c1/Y  HC161_1/Q_8_0/B  HC161_1/Q_8_0/Y  HC161_1/Q_n3/B  HC161_1/Q_n3/Y  HC161_1/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[2\]/CLK  HC161_0/Q\[2\]/Q  HC161_0/Q_RNINOAU\[2\]/B  HC161_0/Q_RNINOAU\[2\]/Y  HC161_1/Qlde/A  HC161_1/Qlde/Y  HC161_1/Q\[3\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_c1/A  HC161_0/Q_c1/Y  HC161_1/Q_m1_e_0/A  HC161_1/Q_m1_e_0/Y  HC161_1/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[3\]/CLK  HC161_0/Q\[3\]/Q  HC161_0/Q_RNINOAU\[2\]/A  HC161_0/Q_RNINOAU\[2\]/Y  HC161_1/Qlde/A  HC161_1/Qlde/Y  HC161_1/Q\[3\]/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  HC161_1/Q_c1/B  HC161_1/Q_c1/Y  HC161_1/Q_n2/B  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[2\]/CLK  HC161_1/Q\[2\]/Q  HC161_1/Q_8_0/A  HC161_1/Q_8_0/Y  HC161_1/Q_n3/B  HC161_1/Q_n3/Y  HC161_1/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[2\]/CLK  HC161_0/Q\[2\]/Q  HC161_0/Q_8_0/A  HC161_0/Q_8_0/Y  HC161_0/Q_n3/A  HC161_0/Q_n3/Y  HC161_0/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[2\]/CLK  HC161_0/Q\[2\]/Q  HC161_0/Q_n2/B  HC161_0/Q_n2/Y  HC161_0/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  HC161_1/Q_n1/B  HC161_1/Q_n1/Y  HC161_1/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[3\]/CLK  HC161_0/Q\[3\]/Q  HC161_0/Q_n3/B  HC161_0/Q_n3/Y  HC161_0/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_n1/B  HC161_0/Q_n1/Y  HC161_0/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  HC161_1/Q_m1_e_0/B  HC161_1/Q_m1_e_0/Y  HC161_1/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  HC161_1/Q_n1/A  HC161_1/Q_n1/Y  HC161_1/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  HC161_0/Q_n0/A  HC161_0/Q_n0/Y  HC161_0/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[2\]/CLK  HC161_1/Q\[2\]/Q  HC161_1/Q_n2/A  HC161_1/Q_n2/Y  HC161_1/Q\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_0/Q\[1\]/CLK  HC161_0/Q\[1\]/Q  HC161_0/Q_n1/A  HC161_0/Q_n1/Y  HC161_0/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[3\]/CLK  HC161_1/Q\[3\]/Q  HC161_1/Q_n3/A  HC161_1/Q_n3/Y  HC161_1/Q\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  And4in_0/Start/C  And4in_0/Start/Y  And4in_0/AND2_Result/A  And4in_0/AND2_Result/Y  C_pad/D  C_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_1/Q\[0\]/CLK  HC161_1/Q\[0\]/Q  QH_pad\[0\]/D  QH_pad\[0\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_1/Q\[1\]/CLK  HC161_1/Q\[1\]/Q  QH_pad\[1\]/D  QH_pad\[1\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_0/Q\[3\]/CLK  HC161_0/Q\[3\]/Q  QL_pad\[3\]/D  QL_pad\[3\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_1/Q\[2\]/CLK  HC161_1/Q\[2\]/Q  QH_pad\[2\]/D  QH_pad\[2\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_0/Q\[0\]/CLK  HC161_0/Q\[0\]/Q  QL_pad\[0\]/D  QL_pad\[0\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_0/Q\[2\]/CLK  HC161_0/Q\[2\]/Q  QL_pad\[2\]/D  QL_pad\[2\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_0/Q\[1\]/CLK  HC161_0/Q\[1\]/Q  QL_pad\[1\]/D  QL_pad\[1\]/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT HC161_1/Q\[3\]/CLK  HC161_1/Q\[3\]/Q  QH_pad\[3\]/D  QH_pad\[3\]/PAD  	(10.0:10.0:10.0) )
+
+  )
+)
+)

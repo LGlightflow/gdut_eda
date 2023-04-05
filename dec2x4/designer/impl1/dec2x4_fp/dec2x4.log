@@ -1,0 +1,124 @@
+FlashPro
+Version: 11.9.0.4
+Release: v11.9
+
+Software Version: 11.9.0.4
+PDB file 'D:\project\program\QUARTUS\eda\dec2x4\designer\impl1\dec2x4.pdb' has been loaded
+successfully.
+DESIGN : dec2x4;  CHECKSUM : D7C0;  PDB_VERSION : 1.9
+programmer 'S2001K87ZH' : FlashPro5
+Opened 'D:\project\program\QUARTUS\eda\dec2x4\designer\impl1\dec2x4_fp\dec2x4.pro'
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = d7c0
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 18:37:36 2022 (Elapsed time 00:00:28)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = d7c0
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 18:38:47 2022 (Elapsed time 00:00:29)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+PDB file 'D:\project\program\QUARTUS\eda\dec2x4\designer\impl1\dec2x4.pdb' has been loaded
+successfully.
+DESIGN : dec2x4;  CHECKSUM : D7C0;  PDB_VERSION : 1.9
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = d7c0
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 18:40:56 2022 (Elapsed time 00:00:29)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+Rescanning for Programmers...
+programmer 'S2001K87ZH' : FlashPro5
+Rescanning for Programmers DONE.
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = d7c0
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 18:55:26 2022 (Elapsed time 00:00:28)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+PDB file 'D:\project\program\QUARTUS\eda\dec2x4\designer\impl1\dec2x4.pdb' has been loaded
+successfully.
+DESIGN : dec2x4;  CHECKSUM : 5D17;  PDB_VERSION : 1.9
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = 5d17
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 19:10:34 2022 (Elapsed time 00:00:28)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+programmer 'S2001K87ZH' : Scan Chain...
+Warning: programmer 'S2001K87ZH' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001K87ZH' : Scan Chain PASSED.
+programmer 'S2001K87ZH' : Executing action PROGRAM
+programmer 'S2001K87ZH' : EXPORT FSN[48] = 8178a70c24b8
+programmer 'S2001K87ZH' : Erase ...
+programmer 'S2001K87ZH' : Completed erase
+programmer 'S2001K87ZH' : EXPORT CHECKSUM[16] = 5d17
+programmer 'S2001K87ZH' : Programming FPGA Array
+programmer 'S2001K87ZH' : Verifying FPGA Array
+programmer 'S2001K87ZH' :         Verifying FPGA Array -- pass
+programmer 'S2001K87ZH' : Finished: Wed Nov 30 19:37:07 2022 (Elapsed time 00:00:28)
+programmer 'S2001K87ZH' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+Warning: Project 'dec2x4' has been modified. Do you want to save it? [YES]
+Project saved.
+Project closed.

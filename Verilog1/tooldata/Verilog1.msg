@@ -1,0 +1,18 @@
+Implementation;Compile;RootName:Verilog1
+Implementation;Compile||(null)||Please refer to the log file for details||Verilog1_compile_log.rpt;liberoaction://open_report/file/Verilog1_compile_log.rpt||(null);(null)
+Implementation;Place and Route;RootName:Verilog1
+Implementation;Place and Route||(null)||Please refer to the log file for details about 1 Info(s)||Verilog1_placeroute_log.rpt;liberoaction://open_report/file/Verilog1_placeroute_log.rpt||(null);(null)
+HelpInfo,C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\html,fpgahelp.qhc,errormessages.mp,C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\mbin\assistant
+Implementation;Synthesis;RootName:Verilog2
+Implementation;Synthesis||null||@N: Running in 64-bit mode||Verilog2.srr(11);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/11||null;null
+Implementation;Synthesis||null||@N: Running in 64-bit mode||Verilog2.srr(15);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/15||null;null
+Implementation;Synthesis|| CG364 ||@N: Synthesizing module Verilog2 in library work.||Verilog2.srr(27);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/27||Verilog1.v(69);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\hdl\Verilog1.v'/linenumber/69
+Implementation;Synthesis||null||@N: Running in 64-bit mode||Verilog2.srr(39);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/39||null;null
+Implementation;Synthesis||null||@N: Running in 64-bit mode||Verilog2.srr(60);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/60||null;null
+Implementation;Synthesis|| MF248 ||@N: Running in 64-bit mode.||Verilog2.srr(83);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/83||null;null
+Implementation;Synthesis|| MF667 ||@N: Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)||Verilog2.srr(84);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/84||null;null
+Implementation;Synthesis|| BN225 ||@N: Writing default property annotation file D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.sap.||Verilog2.srr(105);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/105||null;null
+Implementation;Synthesis|| MF248 ||@N: Running in 64-bit mode.||Verilog2.srr(132);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/132||null;null
+Implementation;Synthesis|| MF667 ||@N: Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)||Verilog2.srr(133);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/133||null;null
+Implementation;Synthesis|| MT320 ||@N: This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.||Verilog2.srr(238);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/238||null;null
+Implementation;Synthesis|| MT322 ||@N: Clock constraints include only register-to-register paths associated with each individual clock.||Verilog2.srr(240);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog2.srr'/linenumber/240||null;null

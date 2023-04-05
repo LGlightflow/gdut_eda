@@ -1,0 +1,37 @@
+ ** Message System Log
+ ** Database: 
+ ** Date:   Mon Dec 19 12:17:33 2022
+
+
+****************
+Macro Parameters
+****************
+
+Name                            : And4in
+Family                          : PA3LC
+Output Format                   : VERILOG
+Type                            : AND(Nand)
+Nb of Inputs                    : 4
+Result                          : Active High
+
+**************
+Compile Report
+**************
+
+
+Netlist Resource Report
+=======================
+
+    CORE                       Used:      2  Total:   1536   (0.13%)
+    IO (W/ clocks)             Used:      0  Total:     71   (0.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Wrote Verilog netlist to D:/project/program/QUARTUS/eda/Counter/smartgen\And4in\And4in.v.
+
+ ** Log Ended:   Mon Dec 19 12:17:34 2022
+

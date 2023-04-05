@@ -1,0 +1,14 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Date: Mon Dec 19 01:01:44 2022
+Design Name: HC85  Family: ProASIC3  Die: A3P060  Package: 100 VQFP
+Design State: Post-Layout
+
+
+
+

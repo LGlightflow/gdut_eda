@@ -1,0 +1,23 @@
+*****************************************************************
+Pin Report - Date: Sat Nov 12 15:51:07 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: adder_2
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port        |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+------------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+A0           41   No     IO59RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+A1           30   No     IO67RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+B0           46   No     GDA2/IO54RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+B1           28   No     GEC2/IO69RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+Cin          43   No     IO57RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Core_Cout    31   No     IO66RSB1       LVTTL    12                 High  None           No    35                No           No
+Core_Sum[0]  45   No     GDB2/IO55RSB1  LVTTL    12                 High  None           No    35                No           No
+Core_Sum[1]  33   No     IO64RSB1       LVTTL    12                 High  None           No    35                No           No
+Cout         29   No     IO68RSB1       LVTTL    12                 High  None           No    35                No           No
+S0           42   No     IO58RSB1       LVTTL    12                 High  None           No    35                No           No
+S1           32   No     IO65RSB1       LVTTL    12                 High  None           No    35                No           No

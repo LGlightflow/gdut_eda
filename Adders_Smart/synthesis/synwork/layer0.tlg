@@ -1,0 +1,15 @@
+Selecting top level module adder_3
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1935:7:1935:10|Synthesizing module XOR3 in library work.
+
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1289:7:1289:10|Synthesizing module MAJ3 in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\smartgen\Core_adder\Core_adder.v":5:7:5:16|Synthesizing module Core_adder in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\hdl\Fadd1.v":3:0:3:8|Synthesizing module FA_behav2 in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\hdl\halfadder.v":21:7:21:15|Synthesizing module halfadder in library work.
+
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1464:7:1464:9|Synthesizing module OR2 in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\component\work\adder_3\adder_3.v":9:7:9:13|Synthesizing module adder_3 in library work.
+

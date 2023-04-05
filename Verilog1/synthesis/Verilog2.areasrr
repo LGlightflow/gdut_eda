@@ -1,0 +1,11 @@
+----------------------------------------------------------------------
+Report for cell Verilog2.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              INBUF         3       0.0        0.0
+                             MIN3XI         1       1.0        1.0
+                             OUTBUF         1       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              7                  1.0

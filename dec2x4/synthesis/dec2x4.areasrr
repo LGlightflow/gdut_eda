@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+Report for cell dec2x4.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              INBUF         3       0.0        0.0
+                               OR3A         1       1.0        1.0
+                               OR3B         2       1.0        2.0
+                               OR3C         1       1.0        1.0
+                             OUTBUF         4       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL             13                  4.0

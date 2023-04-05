@@ -1,0 +1,8 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe  -link  -top  HC4511  -multisrs  D:\project\program\QUARTUS\eda\HC4511\synthesis\synwork\HC4511_comp.srs  -osyn  D:\project\program\QUARTUS\eda\HC4511\synthesis\synwork\HC4511_mult.srs  -log  D:\project\program\QUARTUS\eda\HC4511\synthesis\synlog\HC4511_multi_srs_gen.srr 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe -link -top HC4511 -multisrs ..\synwork\HC4511_comp.srs -osyn ..\synwork\HC4511_mult.srs -log ..\synlog\HC4511_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\HC4511_comp.srs|io:i|time:1671361100|size:2126|exec:0|csum:362C6178AD9627555947C2F48408422C
+file:..\synwork\HC4511_mult.srs|io:o|time:1671361101|size:1846|exec:0|csum:
+file:..\synlog\HC4511_multi_srs_gen.srr|io:o|time:1671361101|size:509|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\syn_nfilter.exe|io:i|time:1508986612|size:3128832|exec:1|csum:962D613D77B03012E41E67FDFAA0D819
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1508986884|size:3947520|exec:1|csum:17B0DA4185D3A16356E0044EDC31C9F0

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/dec2x4/simulation
+vdec2x4
+!s110 1668227284
+!i10b 1
+!s100 Bz_mzXa8:=]0Ac98<0l@o2
+IO0lRl=^WO5C;bmnfiLUP^3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668227269
+8D:/project/program/QUARTUS/eda/dec2x4/synthesis/dec2x4.v
+FD:/project/program/QUARTUS/eda/dec2x4/synthesis/dec2x4.v
+L0 5
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1668227284.000000
+!s107 D:/project/program/QUARTUS/eda/dec2x4/synthesis/dec2x4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/dec2x4/synthesis/dec2x4.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postsynth -O0
+Z4 tCvgOpt 0
+vtestbench
+!s110 1668227285
+!i10b 1
+!s100 ka?0CNko;EQS8nK[h1?XB0
+I39k0>c_PM8cdEPkPc004[2
+R1
+R0
+w1668226943
+8D:/project/program/QUARTUS/eda/dec2x4/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/dec2x4/stimulus/testbench.v
+L0 30
+R2
+r1
+!s85 0
+31
+!s108 1668227285.000000
+!s107 D:/project/program/QUARTUS/eda/dec2x4/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/dec2x4/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/dec2x4/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R3
+!s92 +incdir+D:/project/program/QUARTUS/eda/dec2x4/stimulus -vlog01compat -work postsynth -O0
+R4

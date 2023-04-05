@@ -1,0 +1,13 @@
+Selecting top level module cnt121
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":20:7:20:10|Synthesizing module AND3 in library work.
+
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":2:7:2:10|Synthesizing module AND2 in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Counter\smartgen\And4in\And4in.v":5:7:5:12|Synthesizing module And4in in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Counter\hdl\74HC161.v":21:7:21:11|Synthesizing module HC161 in library work.
+
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1283:7:1283:9|Synthesizing module INV in library work.
+
+@N: CG364 :"D:\project\program\QUARTUS\eda\Counter\component\work\cnt121\cnt121.v":9:7:9:12|Synthesizing module cnt121 in library work.
+

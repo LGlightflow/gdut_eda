@@ -1,0 +1,11 @@
+Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
+
+Date      :  Sat Nov 12 14:08:15 2022
+Project   :  D:\project\program\QUARTUS\eda\Adders_Smart
+Component :  adders
+Family    :  ProASIC3
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/project/program/QUARTUS/eda/Adders_Smart/component/work/adders/adders.v
+

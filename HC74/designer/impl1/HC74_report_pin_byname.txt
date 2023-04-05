@@ -1,0 +1,24 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 19 00:44:27 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: HC74
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+Clk1  60   No     GCC2/IO43RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+Clk2  10   No     GFB1/IO87RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+D1    85   No     IO13RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+D2    91   No     IO09RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+Q1    84   No     IO15RSB0       LVTTL    12                 High  None           No    35                No           No
+Q1_N  83   No     IO17RSB0       LVTTL    12                 High  None           No    35                No           No
+Q2    92   No     IO08RSB0       LVTTL    12                 High  None           No    35                No           No
+Q2_N  93   No     GAC1/IO07RSB0  LVTTL    12                 High  None           No    35                No           No
+R1    90   No     IO10RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+R2    43   No     IO57RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+S1    86   No     IO11RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+S2    42   No     IO58RSB1       LVTTL    ---                ---   None           ---   ---               No           No

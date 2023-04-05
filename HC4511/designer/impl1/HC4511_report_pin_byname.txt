@@ -1,0 +1,27 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 19 00:48:49 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: HC4511
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port   |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+A[0]    29   No     IO68RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+A[1]    20   No     GEB1/IO75RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+A[2]    19   No     GEC1/IO77RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+A[3]    16   No     GFA2/IO83RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+BI_N    94   No     GAC0/IO06RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+LE      61   No     GCB2/IO42RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+LT_N    93   No     GAC1/IO07RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+Seg[0]  32   No     IO65RSB1       LVTTL    12                 High  None           No    35                No           No
+Seg[1]  91   No     IO09RSB0       LVTTL    12                 High  None           No    35                No           No
+Seg[2]  35   No     IO62RSB1       LVTTL    12                 High  None           No    35                No           No
+Seg[3]  96   No     GAB0/IO04RSB0  LVTTL    12                 High  None           No    35                No           No
+Seg[4]  36   No     IO61RSB1       LVTTL    12                 High  None           No    35                No           No
+Seg[5]  95   No     GAB1/IO05RSB0  LVTTL    12                 High  None           No    35                No           No
+Seg[6]  34   No     IO63RSB1       LVTTL    12                 High  None           No    35                No           No
+Seg[7]  92   No     IO08RSB0       LVTTL    12                 High  None           No    35                No           No

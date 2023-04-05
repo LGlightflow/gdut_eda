@@ -1,0 +1,19 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 19 14:35:16 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: dec2x4
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+a     27   No     GEB2/IO70RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+b     30   No     IO67RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+en    32   No     IO65RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+y[0]  26   No     GEA2/IO71RSB1  LVTTL    12                 High  None           No    35                No           No
+y[1]  29   No     IO68RSB1       LVTTL    12                 High  None           No    35                No           No
+y[2]  31   No     IO66RSB1       LVTTL    12                 High  None           No    35                No           No
+y[3]  28   No     GEC2/IO69RSB1  LVTTL    12                 High  None           No    35                No           No

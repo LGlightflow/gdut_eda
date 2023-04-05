@@ -1,0 +1,44 @@
+ ** Message System Log
+ ** Database: 
+ ** Date:   Sat Nov 12 15:23:27 2022
+
+
+****************
+Macro Parameters
+****************
+
+Name                            : Core_adder
+Family                          : PA3LC
+Output Format                   : VERILOG
+Type                            : Adder
+Variation                       : Ripple
+Width                           : 2
+Algorithm                       : Ripple
+Insert Pad                      : No
+Insert I/O Reg                  : No
+Generate GCF                    : No
+Debug Level                     : 0
+Carry In                        : Active High
+Carry Out                       : Active High
+
+**************
+Compile Report
+**************
+
+
+Netlist Resource Report
+=======================
+
+    CORE                       Used:      4  Total:   1536   (0.26%)
+    IO (W/ clocks)             Used:      0  Total:     71   (0.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Wrote Verilog netlist to D:/project/program/QUARTUS/eda/Adders_Smart/smartgen\Core_adder\Core_adder.v.
+
+ ** Log Ended:   Sat Nov 12 15:23:27 2022
+

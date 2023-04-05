@@ -1,0 +1,124 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Counter/simulation
+vAnd4in
+Z1 !s110 1671425465
+!i10b 1
+!s100 fJ`b9OU@5B`LOUEg:<N:]1
+IneTkkzk[_4c0EgTkbPLB42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1671425453
+Z4 8D:/project/program/QUARTUS/eda/Counter/synthesis/cnt121.v
+Z5 FD:/project/program/QUARTUS/eda/Counter/synthesis/cnt121.v
+L0 88
+Z6 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1671425465.000000
+Z8 !s107 D:/project/program/QUARTUS/eda/Counter/synthesis/cnt121.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Counter/synthesis/cnt121.v|
+!s101 -O0
+!i113 1
+Z10 o-vlog01compat -work postsynth -O0
+Z11 tCvgOpt 0
+n@and4in
+vcnt121
+R1
+!i10b 1
+!s100 eiA0kmcnGQfKHjk3?`@lL2
+IeE9<8c5LhnSYdA3bD15bI1
+R2
+R0
+R3
+R4
+R5
+L0 107
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+vHC161_0
+R1
+!i10b 1
+!s100 _WAUKVRbQ46Mzj4gC8REc0
+IEA:QVLezJ^^0JB@jo3M@d2
+R2
+R0
+R3
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+n@h@c161_0
+vHC161_1
+R1
+!i10b 1
+!s100 TcDg3IId:IHBo=5BT?fO@2
+IF<U<K4z4M6j:5UGKj:LFG2
+R2
+R0
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+n@h@c161_1
+vtestbench121
+R1
+!i10b 1
+!s100 5QbQ:NLUzg?]SKF0MiO`g0
+I`bT4fY6?j9`4a88hz]m1L0
+R2
+R0
+w1671422162
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s101 -O0
+!i113 1
+R10
+!s92 +incdir+D:/project/program/QUARTUS/eda/Counter/stimulus -vlog01compat -work postsynth -O0
+R11

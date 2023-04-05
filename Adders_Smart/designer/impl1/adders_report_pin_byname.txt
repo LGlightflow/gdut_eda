@@ -1,0 +1,19 @@
+*****************************************************************
+Pin Report - Date: Sat Nov 12 14:27:37 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: adders
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port  |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+Cin    27   Yes    GEB2/IO70RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+Cout1  30   Yes    IO67RSB1       LVTTL    12                 High  None           No    35                No           No
+Cout2  32   Yes    IO65RSB1       LVTTL    12                 High  None           No    35                No           No
+DataA  26   Yes    GEA2/IO71RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+DataB  29   Yes    IO68RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Sum1   31   Yes    IO66RSB1       LVTTL    12                 High  None           No    35                No           No
+Sum2   28   Yes    GEC2/IO69RSB1  LVTTL    12                 High  None           No    35                No           No

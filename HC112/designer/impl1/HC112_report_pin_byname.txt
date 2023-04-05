@@ -1,0 +1,26 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 19 00:33:24 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: HC112
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+Clk1  43   No     IO57RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Clk2  91   No     IO09RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+J1    42   No     IO58RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+J2    92   No     IO08RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+K1    41   No     IO59RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+K2    90   No     IO10RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+Q1    19   No     GEC1/IO77RSB1  LVTTL    12                 High  None           No    35                No           No
+Q1_N  15   No     GFA1/IO84RSB1  LVTTL    12                 High  None           No    35                No           No
+Q2    40   No     IO60RSB1       LVTTL    12                 High  None           No    35                No           No
+Q2_N  36   No     IO61RSB1       LVTTL    12                 High  None           No    35                No           No
+R1    44   No     GDC2/IO56RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+R2    94   No     GAC0/IO06RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+S1    45   No     GDB2/IO55RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+S2    93   No     GAC1/IO07RSB0  LVTTL    ---                ---   None           ---   ---               No           No

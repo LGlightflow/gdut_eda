@@ -1,0 +1,26 @@
+*****************************************************************
+Pin Report - Date: Sat Dec 17 21:31:50 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: encoder8_3_1
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port    |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+--------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+din[0]   15   No     GFA1/IO84RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+din[1]   26   No     GEA2/IO71RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+din[2]   30   No     IO67RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+din[3]   31   No     IO66RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+din[4]   32   No     IO65RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+din[5]   34   No     IO63RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+din[6]   35   No     IO62RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+din[7]   41   No     IO59RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+dout[0]  33   No     IO64RSB1       LVTTL    12                 High  None           No    35                No           No
+dout[1]  40   No     IO60RSB1       LVTTL    12                 High  None           No    35                No           No
+dout[2]  36   No     IO61RSB1       LVTTL    12                 High  None           No    35                No           No
+EI       28   No     GEC2/IO69RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+EO       27   No     GEB2/IO70RSB1  LVTTL    12                 High  None           No    35                No           No
+GS       29   No     IO68RSB1       LVTTL    12                 High  None           No    35                No           No

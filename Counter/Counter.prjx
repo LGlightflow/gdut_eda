@@ -1,0 +1,934 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "D:\project\program\QUARTUS\eda\Counter"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "cnt121a::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\cnt121\cnt121.cxf,actgen_cxf"
+STATE="utd"
+TIME="1671425356"
+SIZE="2503"
+ENDFILE
+VALUE "<project>\component\work\cnt121\cnt121.v,hdl"
+STATE="utd"
+TIME="1671425356"
+SIZE="4080"
+PARENT="<project>\component\work\cnt121\cnt121.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cnt12a\cnt12a.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670638734"
+SIZE="2223"
+ENDFILE
+VALUE "<project>\component\work\cnt12a\cnt12a.v,hdl"
+STATE="utd"
+TIME="1670638734"
+SIZE="3159"
+PARENT="<project>\component\work\cnt12a\cnt12a.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cnt12b\cnt12b.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670656103"
+SIZE="1983"
+ENDFILE
+VALUE "<project>\component\work\cnt12b\cnt12b.v,hdl"
+STATE="utd"
+TIME="1670656102"
+SIZE="2617"
+PARENT="<project>\component\work\cnt12b\cnt12b.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cnt12\cnt12.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670638729"
+SIZE="2230"
+ENDFILE
+VALUE "<project>\component\work\cnt12\cnt12.v,hdl"
+STATE="utd"
+TIME="1670638729"
+SIZE="3487"
+PARENT="<project>\component\work\cnt12\cnt12.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cnt200\cnt200.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670652815"
+SIZE="2506"
+ENDFILE
+VALUE "<project>\component\work\cnt200\cnt200.v,hdl"
+STATE="utd"
+TIME="1670652815"
+SIZE="4444"
+PARENT="<project>\component\work\cnt200\cnt200.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cnt256\cnt256.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670647886"
+SIZE="2421"
+ENDFILE
+VALUE "<project>\component\work\cnt256\cnt256.v,hdl"
+STATE="utd"
+TIME="1670647885"
+SIZE="3109"
+PARENT="<project>\component\work\cnt256\cnt256.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\Counter\Counter.cxf,actgen_cxf"
+STATE="utd"
+TIME="1671427285"
+SIZE="2079"
+ENDFILE
+VALUE "<project>\component\work\Counter\Counter.v,hdl"
+STATE="utd"
+TIME="1671427285"
+SIZE="2237"
+PARENT="<project>\component\work\Counter\Counter.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670594166"
+SIZE="437"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_IO\DESIGN_IO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670594166"
+SIZE="413"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt12.ide_des,ide_des"
+STATE="utd"
+TIME="1670636938"
+SIZE="195"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121.adb,adb"
+STATE="utd"
+TIME="1671424877"
+SIZE="41472"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121.ide_des,ide_des"
+STATE="utd"
+TIME="1671422235"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121a.ide_des,ide_des"
+STATE="utd"
+TIME="1671428168"
+SIZE="197"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1671424893"
+SIZE="23551"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121_ba.v,ba_hdl"
+STATE="utd"
+TIME="1671425392"
+SIZE="7022"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121_ba_log.rpt,log"
+STATE="utd"
+TIME="1671425392"
+SIZE="778"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121_compile_log.rpt,log"
+STATE="utd"
+TIME="1671424877"
+SIZE="8089"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt121_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1671425384"
+SIZE="2422"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt12a.ide_des,ide_des"
+STATE="utd"
+TIME="1670638721"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt12b.ide_des,ide_des"
+STATE="utd"
+TIME="1671426977"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt200.ide_des,ide_des"
+STATE="utd"
+TIME="1670650151"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\cnt256.ide_des,ide_des"
+STATE="utd"
+TIME="1670646000"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\Counter.ide_des,ide_des"
+STATE="utd"
+TIME="1670593857"
+SIZE="197"
+ENDFILE
+VALUE "<project>\hdl\74HC161.v,hdl"
+STATE="utd"
+TIME="1670654330"
+SIZE="996"
+ENDFILE
+VALUE "<project>\hdl\cnt121a.v,hdl"
+STATE="utd"
+TIME="1671428439"
+SIZE="507"
+ENDFILE
+VALUE "<project>\hdl\cnt200.v,hdl"
+STATE="utd"
+TIME="1670657516"
+SIZE="4444"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1670658279"
+SIZE="744"
+ENDFILE
+VALUE "<project>\simulation\testbench121_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1671425399"
+SIZE="68"
+ENDFILE
+VALUE "<project>\simulation\testbench121_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1671425460"
+SIZE="68"
+ENDFILE
+VALUE "<project>\simulation\testbench121_presynth_simulation.log,log"
+STATE="utd"
+TIME="1671428496"
+SIZE="68"
+ENDFILE
+VALUE "<project>\simulation\testbench200_presynth_simulation.log,log"
+STATE="utd"
+TIME="1670658370"
+SIZE="3102"
+ENDFILE
+VALUE "<project>\simulation\testbench256_presynth_simulation.log,log"
+STATE="utd"
+TIME="1670648555"
+SIZE="2646"
+ENDFILE
+VALUE "<project>\simulation\testbench_presynth_simulation.log,log"
+STATE="utd"
+TIME="1670588705"
+SIZE="2156"
+ENDFILE
+VALUE "<project>\smartgen\and1\and1.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670635877"
+SIZE="1170"
+ENDFILE
+VALUE "<project>\smartgen\and1\and1.gen,gen"
+STATE="utd"
+TIME="1670635874"
+SIZE="388"
+PARENT="<project>\smartgen\and1\and1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\and1\and1.log,log"
+STATE="utd"
+TIME="1670635877"
+SIZE="1192"
+PARENT="<project>\smartgen\and1\and1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\and1\and1.v,hdl"
+STATE="utd"
+TIME="1670635877"
+SIZE="832"
+PARENT="<project>\smartgen\and1\and1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\And4in\And4in.cxf,actgen_cxf"
+STATE="utd"
+TIME="1671423455"
+SIZE="1178"
+ENDFILE
+VALUE "<project>\smartgen\And4in\And4in.gen,gen"
+STATE="utd"
+TIME="1671423453"
+SIZE="390"
+PARENT="<project>\smartgen\And4in\And4in.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\And4in\And4in.log,log"
+STATE="utd"
+TIME="1671423454"
+SIZE="1199"
+PARENT="<project>\smartgen\And4in\And4in.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\And4in\And4in.v,hdl"
+STATE="utd"
+TIME="1671423454"
+SIZE="930"
+PARENT="<project>\smartgen\And4in\And4in.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\nand1\nand1.cxf,actgen_cxf"
+STATE="utd"
+TIME="1670636231"
+SIZE="1174"
+ENDFILE
+VALUE "<project>\smartgen\nand1\nand1.gen,gen"
+STATE="utd"
+TIME="1670636229"
+SIZE="389"
+PARENT="<project>\smartgen\nand1\nand1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\nand1\nand1.log,log"
+STATE="utd"
+TIME="1670636230"
+SIZE="1196"
+PARENT="<project>\smartgen\nand1\nand1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\nand1\nand1.v,hdl"
+STATE="utd"
+TIME="1670636230"
+SIZE="833"
+PARENT="<project>\smartgen\nand1\nand1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\stimulus\testbench.v,tb_hdl"
+STATE="utd"
+TIME="1670588477"
+SIZE="1734"
+ENDFILE
+VALUE "<project>\stimulus\testbench1.v,tb_hdl"
+STATE="utd"
+TIME="1670639075"
+SIZE="1445"
+ENDFILE
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+STATE="utd"
+TIME="1671422162"
+SIZE="461"
+ENDFILE
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+STATE="utd"
+TIME="1670656193"
+SIZE="2346"
+ENDFILE
+VALUE "<project>\stimulus\testbench200.v,tb_hdl"
+STATE="utd"
+TIME="1671419466"
+SIZE="1028"
+ENDFILE
+VALUE "<project>\stimulus\testbench256.v,tb_hdl"
+STATE="utd"
+TIME="1670650760"
+SIZE="1030"
+ENDFILE
+VALUE "<project>\synthesis\cnt121.edn,syn_edn"
+STATE="utd"
+TIME="1671424260"
+SIZE="26202"
+ENDFILE
+VALUE "<project>\synthesis\cnt121.so,so"
+STATE="utd"
+TIME="1671424260"
+SIZE="220"
+ENDFILE
+VALUE "<project>\synthesis\cnt121.v,syn_hdl"
+STATE="utd"
+TIME="1671425167"
+SIZE="4377"
+ENDFILE
+VALUE "<project>\synthesis\cnt121_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1671424259"
+SIZE="395"
+ENDFILE
+VALUE "<project>\synthesis\cnt121_syn.prj,prj"
+STATE="utd"
+TIME="1671424260"
+SIZE="1880"
+ENDFILE
+VALUE "<project>\synthesis\HC161_syn.prj,prj"
+STATE="utd"
+TIME="1670593059"
+SIZE="576"
+ENDFILE
+ENDLIST
+LIST UsedFile
+VALUE "<project>\component\work\cnt200\cnt200.v,cnt200"
+ENDLIST
+LIST NewModulesInfo
+LIST "cnt12::work"
+FILE "<project>\component\work\cnt12\cnt12.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cnt121::work"
+FILE "<project>\component\work\cnt121\cnt121.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\cnt121.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cnt121.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cnt121_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cnt121_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cnt121a::work"
+FILE "<project>\hdl\cnt121a.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cnt12a::work"
+FILE "<project>\component\work\cnt12a\cnt12a.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cnt12b::work"
+FILE "<project>\component\work\cnt12b\cnt12b.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cnt200::work"
+FILE "<project>\component\work\cnt200\cnt200.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench200.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cnt256::work"
+FILE "<project>\component\work\cnt256\cnt256.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench200.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "Counter::work"
+FILE "<project>\component\work\Counter\Counter.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "HC161::work"
+FILE "<project>\hdl\74HC161.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\testbench1.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST Counter
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST HC161
+VALUE "<project>\stimulus\testbench1.v,tb_hdl"
+ENDLIST
+LIST cnt256
+VALUE "<project>\stimulus\testbench200.v,tb_hdl"
+ENDLIST
+LIST cnt200
+VALUE "<project>\stimulus\testbench200.v,tb_hdl"
+ENDLIST
+LIST cnt12b
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+LIST cnt12a
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST cnt121a
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST cnt121
+VALUE "<project>\stimulus\testbench121.v,tb_hdl"
+ENDLIST
+LIST cnt12
+VALUE "<project>\stimulus\testbench2.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench121
+TopInstanceName=cnt121
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\synplify_pro.exe"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Modelsim\win32acoem\modelsim.exe"
+PARAM=" -l testbench121_presynth_simulation.log "
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="C:\Microsemi\Libero_SoC_v11.9\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "cnt12::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt121::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\cnt121.adb,adb)=StateSuccess
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cnt121.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt121a::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt12a::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt12b::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt200::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cnt256::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "Counter::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "HC161::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Pre-Synthesis Simulate:testbench2_presynth_simulation.log
+HDL;stimulus\testbench200.v;0
+HDL;hdl\cnt121a.v;0
+SmartDesign;cnt12a;0
+HDL;hdl\74HC161.v;0
+HDL;stimulus\testbench121.v;0
+HDL;stimulus\testbench1.v;0
+HDL;stimulus\testbench.v;0
+ACTIVEVIEW;hdl\cnt121a.v
+ENDLIST
+LIST ModuleSubBlockList
+LIST "and1::work","smartgen\and1\and1.v","TRUE","FALSE"
+ENDLIST
+LIST "And4in::work","smartgen\And4in\And4in.v","TRUE","FALSE"
+ENDLIST
+LIST "cnt12::work","component\work\cnt12\cnt12.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+SUBBLOCK "and1::work","smartgen\and1\and1.v","TRUE","FALSE"
+SUBBLOCK "nand1::work","smartgen\nand1\nand1.v","TRUE","FALSE"
+ENDLIST
+LIST "cnt121::work","component\work\cnt121\cnt121.v","TRUE","FALSE"
+SUBBLOCK "And4in::work","smartgen\And4in\And4in.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "cnt121a::work","hdl\cnt121a.v","FALSE","FALSE"
+ENDLIST
+LIST "cnt12a::work","component\work\cnt12a\cnt12a.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "cnt12b::work","component\work\cnt12b\cnt12b.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "cnt200::work","component\work\cnt200\cnt200.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "cnt256::work","component\work\cnt256\cnt256.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "Counter::work","component\work\Counter\Counter.v","TRUE","FALSE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+ENDLIST
+LIST "DESIGN_IO::work","component\work\DESIGN_IO\DESIGN_IO.cxf","TRUE","FALSE"
+ENDLIST
+LIST "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "nand1::work","smartgen\nand1\nand1.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench::work","stimulus\testbench.v","FALSE","TRUE"
+SUBBLOCK "HC161::work","hdl\74HC161.v","FALSE","FALSE"
+ENDLIST
+LIST "testbench1::work","stimulus\testbench1.v","FALSE","TRUE"
+SUBBLOCK "Counter::work","component\work\Counter\Counter.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench121::work","stimulus\testbench121.v","FALSE","TRUE"
+SUBBLOCK "cnt121::work","component\work\cnt121\cnt121.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench2::work","stimulus\testbench2.v","FALSE","TRUE"
+SUBBLOCK "cnt12b::work","component\work\cnt12b\cnt12b.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench200::work","stimulus\testbench200.v","FALSE","TRUE"
+SUBBLOCK "cnt200::work","component\work\cnt200\cnt200.v","TRUE","FALSE"
+ENDLIST
+LIST "testbench256::work","stimulus\testbench256.v","FALSE","TRUE"
+SUBBLOCK "cnt256::work","component\work\cnt256\cnt256.v","TRUE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "Counter::work"
+ACTIVETESTBENCH "testbench2::work","stimulus\testbench2.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "cnt256::work"
+ACTIVETESTBENCH "testbench200::work","stimulus\testbench200.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "cnt12a::work"
+ACTIVETESTBENCH "testbench121::work","stimulus\testbench121.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+LIST "HC161::work"
+ACTIVETESTBENCH "testbench1::work","stimulus\testbench1.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

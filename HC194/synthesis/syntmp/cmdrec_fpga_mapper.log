@@ -1,0 +1,16 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  D:\project\program\QUARTUS\eda\HC194\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile D:\project\program\QUARTUS\eda\HC194\synthesis\synlog\report\HC194_fpga_mapper.xml  -top_level_module  HC194  -licensetype  synplifypro_actel  -flow mapping  -mp  4  -prjfile  D:\project\program\QUARTUS\eda\HC194\synthesis\scratchproject.prs  -implementation  synthesis  -multisrs  -oedif  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.edn   -freq 100.000   D:\project\program\QUARTUS\eda\HC194\synthesis\synwork\HC194_prem.srd  -sap  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.sap  -otap  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.tap  -omap  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.map  -devicelib  C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -sap  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.sap  -ologparam  D:\project\program\QUARTUS\eda\HC194\synthesis\syntmp\HC194.plg  -osyn  D:\project\program\QUARTUS\eda\HC194\synthesis\HC194.srm  -prjdir  D:\project\program\QUARTUS\eda\HC194\synthesis\  -prjname  HC194_syn  -log  D:\project\program\QUARTUS\eda\HC194\synthesis\synlog\HC194_fpga_mapper.srr 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\HC194_fpga_mapper.xml -top_level_module HC194 -licensetype synplifypro_actel -flow mapping -mp 4 -prjfile ..\scratchproject.prs -implementation synthesis -multisrs -oedif ..\HC194.edn -freq 100.000 ..\synwork\HC194_prem.srd -sap ..\HC194.sap -otap ..\HC194.tap -omap ..\HC194.map -devicelib C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -sap ..\HC194.sap -ologparam HC194.plg -osyn ..\HC194.srm -prjdir ..\ -prjname HC194_syn -log ..\synlog\HC194_fpga_mapper.srr
+rc:1 success:1 runtime:1
+file:..\scratchproject.prs|io:o|time:1671380272|size:1738|exec:0|csum:
+file:..\HC194.edn|io:o|time:1671380276|size:14746|exec:0|csum:
+file:..\synwork\HC194_prem.srd|io:i|time:1671380275|size:2270|exec:0|csum:2538530DF26691107A7601C5AF6C2870
+file:..\HC194.sap|io:o|time:1671380275|size:278|exec:0|csum:
+file:..\HC194.tap|io:o|time:0|size:0|exec:0|csum:
+file:..\HC194.map|io:o|time:1671380276|size:28|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\HC194.sap|io:o|time:1671380275|size:278|exec:0|csum:
+file:HC194.plg|io:o|time:1671380276|size:321|exec:0|csum:
+file:..\HC194.srm|io:o|time:1671380276|size:67409|exec:0|csum:
+file:..\synlog\HC194_fpga_mapper.srr|io:o|time:1671380276|size:12681|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

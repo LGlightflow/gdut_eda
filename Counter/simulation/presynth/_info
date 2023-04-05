@@ -1,0 +1,415 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Counter/simulation
+vand1
+!s110 1670637476
+!i10b 1
+!s100 hJ=P2Jl7DfHX@8N10TPl43
+I_`3?4z4f;e[DVCJ`OUkVI0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1670635877
+8D:/project/program/QUARTUS/eda/Counter/smartgen/and1/and1.v
+FD:/project/program/QUARTUS/eda/Counter/smartgen/and1/and1.v
+L0 5
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z3 !s108 1670637476.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/smartgen/and1/and1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/smartgen/and1/and1.v|
+!s101 -O0
+!i113 1
+Z4 o-vlog01compat -work presynth -O0
+Z5 tCvgOpt 0
+vAnd4in
+!s110 1671423475
+!i10b 1
+!s100 ghX@`91C<QNC0XQMfg5n=3
+IHC]7zdEO0>^HcObd=9[VG2
+R1
+R0
+w1671423454
+8D:/project/program/QUARTUS/eda/Counter/smartgen/And4in/And4in.v
+FD:/project/program/QUARTUS/eda/Counter/smartgen/And4in/And4in.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1671423475.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/smartgen/And4in/And4in.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/smartgen/And4in/And4in.v|
+!s101 -O0
+!i113 1
+R4
+R5
+n@and4in
+vcnt12
+Z6 !s110 1670637477
+!i10b 1
+!s100 k8ERCWjeZNJ5l6HV>T05M3
+IhVbPWY^IblhYL>nRR5K^80
+R1
+R0
+w1670636939
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt12/cnt12.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt12/cnt12.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1670637477.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt12/cnt12.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt12/cnt12.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt121
+!s110 1671423476
+!i10b 1
+!s100 W_Z?GB?G`@k@Do2YHjgDC1
+ImMcAGZ21leAQhGX?Qk<BR0
+R1
+R0
+w1671423457
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt121/cnt121.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt121/cnt121.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1671423476.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt121/cnt121.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt121/cnt121.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt121a
+!s110 1671428501
+!i10b 1
+!s100 >C=@QP?a?WInL]G6^Sj3^0
+IaO5n5EBgU;j>jNVf2@ZO@2
+R1
+R0
+w1671428439
+8D:/project/program/QUARTUS/eda/Counter/hdl/cnt121a.v
+FD:/project/program/QUARTUS/eda/Counter/hdl/cnt121a.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1671428501.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/hdl/cnt121a.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/hdl/cnt121a.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt12a
+!s110 1670645976
+!i10b 1
+!s100 CIl_3fhh3_2FomgS1Xn=71
+IAd5FaBjGNNEZT`M@j>P8T0
+R1
+R0
+w1670638734
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt12a/cnt12a.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt12a/cnt12a.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1670645976.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt12a/cnt12a.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt12a/cnt12a.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt12b
+!s110 1671427001
+!i10b 1
+!s100 HZ>bjEM;_Q`:[T4DYF?nV0
+IY4IdEajnhb9GE=1S_eA021
+R1
+R0
+w1670656102
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt12b/cnt12b.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt12b/cnt12b.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1671427001.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt12b/cnt12b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt12b/cnt12b.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt200
+!s110 1671419483
+!i10b 1
+!s100 klzMbI=1C?kmY2CDLWC_E1
+Iaz>K_EbTkzL=WXWlOn`:E0
+R1
+R0
+w1670652815
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt200/cnt200.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt200/cnt200.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1671419483.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt200/cnt200.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt200/cnt200.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vcnt256
+Z7 !s110 1670648253
+!i10b 1
+!s100 @2LKhb^`5fen]Q;H8lh2c1
+I^QhQ1VEJW>1]8mMUY2S2_0
+R1
+R0
+w1670647885
+8D:/project/program/QUARTUS/eda/Counter/component/work/cnt256/cnt256.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/cnt256/cnt256.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1670648252.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/cnt256/cnt256.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/cnt256/cnt256.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vCounter
+Z8 !s110 1671427181
+!i10b 1
+!s100 Ho]bYEF9f0fMG;aBFTnfX1
+I`m6Jza[N?`EBFg<N:hMIh2
+R1
+R0
+w1671426923
+8D:/project/program/QUARTUS/eda/Counter/component/work/Counter/Counter.v
+FD:/project/program/QUARTUS/eda/Counter/component/work/Counter/Counter.v
+L0 9
+R2
+r1
+!s85 0
+31
+Z9 !s108 1671427181.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/component/work/Counter/Counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/component/work/Counter/Counter.v|
+!s101 -O0
+!i113 1
+R4
+R5
+n@counter
+vHC161
+!s110 1671428171
+!i10b 1
+!s100 8_JVzMa2hYAOUF@[IlRSC2
+I;fOal<Z;eSca964KgZnn=3
+R1
+R0
+w1670654330
+8D:/project/program/QUARTUS/eda/Counter/hdl/74HC161.v
+FD:/project/program/QUARTUS/eda/Counter/hdl/74HC161.v
+Z10 L0 21
+R2
+r1
+!s85 0
+31
+!s108 1671428171.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/hdl/74HC161.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/hdl/74HC161.v|
+!s101 -O0
+!i113 1
+R4
+R5
+n@h@c161
+vnand1
+R6
+!i10b 1
+!s100 aI1[dXBQcdlY`?^C5Ulg?0
+IdB9:n9N`dfzAIQI]bE@I92
+R1
+R0
+w1670636230
+8D:/project/program/QUARTUS/eda/Counter/smartgen/nand1/nand1.v
+FD:/project/program/QUARTUS/eda/Counter/smartgen/nand1/nand1.v
+L0 5
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/project/program/QUARTUS/eda/Counter/smartgen/nand1/nand1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/smartgen/nand1/nand1.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vtestbench
+!s110 1670588624
+!i10b 1
+!s100 ^0Z>a35[ToTSiWYC8;CPX1
+ICe>ZbRUS7MiX_QH2?niUA3
+R1
+R0
+w1670588477
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench.v
+Z11 L0 30
+R2
+r1
+!s85 0
+31
+!s108 1670588623.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R4
+Z12 !s92 +incdir+D:/project/program/QUARTUS/eda/Counter/stimulus -vlog01compat -work presynth -O0
+R5
+vtestbench1
+!s110 1671428172
+!i10b 1
+!s100 UF4k]:Qg8TEi_VibY<MWf1
+IBNN_OkdN?j<L>I0>n7KJV3
+R1
+R0
+w1670639075
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench1.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench1.v
+R11
+R2
+r1
+!s85 0
+31
+!s108 1671428172.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench1.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench1.v|
+!s101 -O0
+!i113 1
+R4
+R12
+R5
+vtestbench121
+!s110 1671428502
+!i10b 1
+!s100 5QbQ:NLUzg?]SKF0MiO`g0
+Iolk1]=<M@4QTRJZO01cR92
+R1
+R0
+w1671422162
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1671428502.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s101 -O0
+!i113 1
+R4
+R12
+R5
+vtestbench2
+R8
+!i10b 1
+!s100 @^?JcCaG04<4QgL]5Xo903
+IaOnXZ3a<C:X8N`RhR8d6c2
+R1
+R0
+w1670656193
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench2.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench2.v
+R11
+R2
+r1
+!s85 0
+31
+R9
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench2.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench2.v|
+!s101 -O0
+!i113 1
+R4
+R12
+R5
+vtestbench200
+!s110 1671419484
+!i10b 1
+!s100 :Ff;1OQOL=VBkfhE`94M=0
+I]03=N]m9F4E]kPHXakLf21
+R1
+R0
+w1671419466
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench200.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench200.v
+R10
+R2
+r1
+!s85 0
+31
+!s108 1671419484.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench200.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench200.v|
+!s101 -O0
+!i113 1
+R4
+R12
+R5
+vtestbench256
+R7
+!i10b 1
+!s100 mA31fKjm3V]RjYh1^k>HX0
+I<d`703c^1H9QG[TDV<jN30
+R1
+R0
+w1670648238
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench256.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench256.v
+R10
+R2
+r1
+!s85 0
+31
+!s108 1670648253.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench256.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench256.v|
+!s101 -O0
+!i113 1
+R4
+R12
+R5

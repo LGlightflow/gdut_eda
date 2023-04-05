@@ -1,0 +1,234 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Adders_Smart/simulation
+vadder_2
+!s110 1668239796
+!i10b 1
+!s100 jhz]cE9Pj<D7L_c[m_ZcN3
+IVPPGKTXAP6:=DkN@k>WJX1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668239604
+8D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_2.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_2.v
+Z2 L0 79
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1668239796.000000
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_2.v|
+!s101 -O0
+!i113 1
+Z4 o-vlog01compat -work postsynth -O0
+Z5 tCvgOpt 0
+vadder_3
+Z6 !s110 1669812602
+!i10b 1
+!s100 oH5J0b=E=T_4GbzfQG?Yf0
+IdQXBPQ=8IQh8i:L3nAHla2
+R1
+R0
+Z7 w1669810955
+Z8 8D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_3.v
+Z9 FD:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_3.v
+R2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1669812602.000000
+Z11 !s107 D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_3.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adder_3.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vadders
+Z13 !s110 1668234061
+!i10b 1
+!s100 ?Q2o>1_DB3^_Rkjkd2fo?2
+IV9IlH:4?N3JWW3gDWZENP3
+R1
+R0
+w1668233760
+8D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adders.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adders.v
+L0 28
+R3
+r1
+!s85 0
+31
+Z14 !s108 1668234061.000000
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adders.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/adders.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vCore_adder
+R6
+!i10b 1
+!s100 G;;O9GF4DBa6@k2jej<oD3
+I7`S[XVN1X4jY]c2mUI:US0
+R1
+R0
+R7
+R8
+R9
+L0 5
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+!i113 1
+R4
+R5
+n@core_adder
+vhalfadder
+!s110 1668236448
+!i10b 1
+!s100 >g?fT]JJ@=`^6NgW]z72z0
+IcU82GH=WbVm2D3[5]7_IE3
+R1
+R0
+w1668236435
+8D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/halfadder.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/synthesis/halfadder.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1668236448.000000
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/halfadder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/synthesis/halfadder.v|
+!s101 -O0
+!i113 1
+R4
+R5
+vhalfadder_1
+R6
+!i10b 1
+!s100 CDNa>J<=>3HhHdifbF9z]0
+IGi`]nO`URP3Z8PMGARRZk3
+R1
+R0
+R7
+R8
+R9
+L0 38
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+!i113 1
+R4
+R5
+vhalfadder_1_0
+R6
+!i10b 1
+!s100 5LgZ9CbcHYJ358iT<g?QF2
+ID3S6>X<g5oc]4`eg<P[QK0
+R1
+R0
+R7
+R8
+R9
+L0 56
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!s101 -O0
+!i113 1
+R4
+R5
+vtestbench
+R13
+!i10b 1
+!s100 :QU<o3I4X2DBU@OK8D@dH0
+IoVaF5:k`=iI8kQFnK<EK?2
+R1
+R0
+w1668233484
+8D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Adders_Smart/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R4
+Z15 !s92 +incdir+D:/project/program/QUARTUS/eda/Adders_Smart/stimulus -vlog01compat -work postsynth -O0
+R5
+vtestbench2
+!s110 1668237440
+!i10b 1
+!s100 TiiMfSz4V9Yibn[jge@^]1
+I]BiO^n9z4>W5[X[6M]<>:2
+R1
+R0
+w1668235136
+8D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench2.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench2.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1668237440.000000
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench2.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Adders_Smart/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench2.v|
+!s101 -O0
+!i113 1
+R4
+R15
+R5
+vtestbench3
+R6
+!i10b 1
+!s100 3BEX`Z3XzePm;KWL6YV7B1
+Ie4B=7UeUYak`1N6POW7B=3
+R1
+R0
+w1669812561
+8D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench3.v
+FD:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench3.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench3.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Adders_Smart/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Adders_Smart/stimulus/testbench3.v|
+!s101 -O0
+!i113 1
+R4
+R15
+R5

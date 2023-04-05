@@ -1,0 +1,9 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe  -osyn  D:\project\program\QUARTUS\eda\Verilog1\synthesis\synwork\Verilog2_comp.srs  -top  Verilog2  -hdllog  D:\project\program\QUARTUS\eda\Verilog1\synthesis\synlog\Verilog2_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -verilog  -prodtype  synplify_pro  -nram -fixsmult -divnmod   -I D:\project\program\QUARTUS\eda\Verilog1\synthesis\  -I C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib   -v2001  -devicelib  C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -encrypt  -pro  -dmgen  D:\project\program\QUARTUS\eda\Verilog1\synthesis\dm  -ui -fid2 -ram -sharing on -ll 2000 -autosm  -lib work D:\project\program\QUARTUS\eda\Verilog1\hdl\Verilog1.v 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe -osyn ..\synwork\Verilog2_comp.srs -top Verilog2 -hdllog ..\synlog\Verilog2_compiler.srr -encrypt -mp 4 -verification_mode 0 -verilog -prodtype synplify_pro -nram -fixsmult -divnmod -I ..\ -I C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib -v2001 -devicelib C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -encrypt -pro -dmgen ..\dm -ui -fid2 -ram -sharing on -ll 2000 -autosm -lib work ..\..\hdl\Verilog1.v
+rc:0 success:1 runtime:4
+file:..\synwork\Verilog2_comp.srs|io:o|time:1671191388|size:1666|exec:0|csum:
+file:..\synlog\Verilog2_compiler.srr|io:o|time:1671191388|size:2790|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\..\hdl\Verilog1.v|io:i|time:1671191368|size:1814|exec:0|csum:14CA31C22AE703BBFFC1D9F792059DB9
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\c_hdl.exe|io:i|time:1508986516|size:1338368|exec:1|csum:4BE9471CC8F1F34D3F79DD6F3C07C7F5
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe|io:i|time:1508986724|size:1754112|exec:1|csum:0724D6BF71D325162DC071CC1383571C

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="datasheet.xsl"?>
+<datasheet>
+  <header>cnt12a</header>
+  <project-settings>
+    <fam>ProASIC3</fam>
+    <die>A3P060</die>
+    <package>100 VQFP</package>
+    <speed-grade>STD</speed-grade>
+    <voltage>1.5</voltage>
+    <hdl-type>Verilog</hdl-type>
+    <project-description>
+    </project-description>
+    <location>D:/project/program/QUARTUS/eda/Counter/component/work/cnt12a</location>
+    <state>GENERATED ( Sat Dec 10 10:18:54 2022 )</state>
+    <swide-toolchain>SoftConsole workspace has not been generated</swide-toolchain>
+  </project-settings>
+  <site-map>
+  </site-map>
+  <fileset>
+    <name>HDL File(s)</name>
+    <file>D:\project\program\QUARTUS\eda\Counter\component\work\cnt12a\cnt12a.v</file>
+    <file>D:\project\program\QUARTUS\eda\Counter\component\work\cnt12\cnt12.v</file>
+    <file>D:\project\program\QUARTUS\eda\Counter\component\work\Counter\Counter.v</file>
+    <file>D:\project\program\QUARTUS\eda\Counter\hdl\74HC161.v</file>
+    <file>D:\project\program\QUARTUS\eda\Counter\smartgen\and1\and1.v</file>
+    <file>D:\project\program\QUARTUS\eda\Counter\smartgen\nand1\nand1.v</file>
+  </fileset>
+  <io>
+    <port-name>Q[3]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Clk</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Q[0]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Q[1]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>MR</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Q[2]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>TC</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>C</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>AND3</core-exttype>
+    <core-name>AND3_0</core-name>
+  </core>
+  <core>
+    <core-name>HC161_0</core-name>
+  </core>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>INV</core-exttype>
+    <core-name>INV_0</core-name>
+  </core>
+  <memorysystem>
+    <title>Memory Map for cnt12a</title>
+    <description>The project does not contain any subsystems.</description>
+  </memorysystem>
+</datasheet>

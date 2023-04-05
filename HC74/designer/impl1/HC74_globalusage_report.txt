@@ -1,0 +1,23 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Date: Mon Dec 19 00:44:26 2022
+Design Name: HC74  Family: ProASIC3  Die: A3P060  Package: 100 VQFP
+Design State: Post-Layout
+
+The following nets have been routed to a chip global resource:
+
+    Fanout            Name
+    ----------------------
+    2                 Net   : Clk1_c
+                      Driver: Clk1_pad/U0/U1/U_GL
+    2                 Net   : Clk2_c
+                      Driver: Clk2_pad/U0/U1/U_GL
+
+
+
+

@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Verilog1/simulation
+vmatch
+!s110 1671199866
+!i10b 1
+!s100 L0a_^3SJMG@IDDI822DZ[3
+IK03UoO1idX[_0f=mchCZe3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671197421
+8D:/project/program/QUARTUS/eda/Verilog1/component/work/match/match.v
+FD:/project/program/QUARTUS/eda/Verilog1/component/work/match/match.v
+L0 9
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1671199866.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/component/work/match/match.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/component/work/match/match.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work presynth -O0
+Z4 tCvgOpt 0
+vmatch2
+!s110 1671202970
+!i10b 1
+!s100 C]W8keM>Le`jJm@YB>i<m3
+IVgOj;9ZUP8kJUDmnj@k9^0
+R1
+R0
+w1671202854
+8D:/project/program/QUARTUS/eda/Verilog1/component/work/match2/match2.v
+FD:/project/program/QUARTUS/eda/Verilog1/component/work/match2/match2.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1671202970.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/component/work/match2/match2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/component/work/match2/match2.v|
+!s101 -O0
+!i113 1
+R3
+R4
+vmatch3
+!s110 1671204029
+!i10b 1
+!s100 C8:<H;27l`KmDO^PF[aMX3
+IaW7Vga]7U76QRGP1B@K`C3
+R1
+R0
+w1671204013
+8D:/project/program/QUARTUS/eda/Verilog1/component/work/match3/match3.v
+FD:/project/program/QUARTUS/eda/Verilog1/component/work/match3/match3.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1671204029.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/component/work/match3/match3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/component/work/match3/match3.v|
+!s101 -O0
+!i113 1
+R3
+R4
+vmatch4
+Z5 !s110 1671205065
+!i10b 1
+!s100 G4KK[S7NUL=h=M@Tn^LLO1
+Id9hFcA<jlRSA8L0kF0WG_0
+R1
+R0
+w1671204854
+8D:/project/program/QUARTUS/eda/Verilog1/component/work/match4/match4.v
+FD:/project/program/QUARTUS/eda/Verilog1/component/work/match4/match4.v
+L0 9
+R2
+r1
+!s85 0
+31
+Z6 !s108 1671205065.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/component/work/match4/match4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/component/work/match4/match4.v|
+!s101 -O0
+!i113 1
+R3
+R4
+vtestbench1
+R5
+!i10b 1
+!s100 aFbN=U3nRe_^W8]WUK2[[1
+IM30>`TYalhzI[3===MG7D3
+R1
+R0
+w1671204876
+8D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbench1.v
+FD:/project/program/QUARTUS/eda/Verilog1/stimulus/testbench1.v
+L0 30
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbench1.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Verilog1/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbench1.v|
+!s101 -O0
+!i113 1
+R3
+Z7 !s92 +incdir+D:/project/program/QUARTUS/eda/Verilog1/stimulus -vlog01compat -work presynth -O0
+R4
+vtestbunch
+!s110 1671110571
+!i10b 1
+!s100 LU5;7bCBjlc_l@cCL7=702
+I1OYRTPFmV9HAg79==P[Xe2
+R1
+R0
+w1671110296
+8D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v
+FD:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v
+Z8 L0 69
+R2
+r1
+!s85 0
+31
+!s108 1671110571.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Verilog1/stimulus|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v|
+!s101 -O0
+!i113 1
+R3
+R7
+R4
+vVerilog0
+!s110 1671109990
+!i10b 1
+!s100 bPOKGQI0A9c9WLK2^zkOG0
+IfGm>P6CA5E_19REdSO`?72
+R1
+R0
+w1671107901
+Z9 8D:/project/program/QUARTUS/eda/Verilog1/hdl/Verilog1.v
+Z10 FD:/project/program/QUARTUS/eda/Verilog1/hdl/Verilog1.v
+L0 36
+R2
+r1
+!s85 0
+31
+!s108 1671109990.000000
+Z11 !s107 D:/project/program/QUARTUS/eda/Verilog1/hdl/Verilog1.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/project/program/QUARTUS/eda/Verilog1/hdl/Verilog1.v|
+!s101 -O0
+!i113 1
+R3
+R4
+n@verilog0
+vVerilog1
+!s110 1671110570
+!i10b 1
+!s100 @k<jn690iY:=:]4=<8^Qm1
+I[]mMzN04m0RcT]7SK^[WB1
+R1
+R0
+w1671110260
+R9
+R10
+L0 21
+R2
+r1
+!s85 0
+31
+!s108 1671110570.000000
+R11
+R12
+!s101 -O0
+!i113 1
+R3
+R4
+n@verilog1
+vVerilog2
+!s110 1671195405
+!i10b 1
+!s100 COmAj^=9^:Fc2Aah2A2VX0
+I:R[E^@dl]WJX]:MS;>W:?3
+R1
+R0
+w1671191368
+R9
+R10
+R8
+R2
+r1
+!s85 0
+31
+!s108 1671195405.000000
+R11
+R12
+!s101 -O0
+!i113 1
+R3
+R4
+n@verilog2

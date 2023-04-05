@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/HC148/simulation
+vencoder8_3_1
+Z1 !s110 1671283340
+!i10b 1
+!s100 k@7TK_NZbOIMO[[nMC?nY0
+IA8Y0cIlVMoc]RNH60]P9c2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671283314
+8D:/project/program/QUARTUS/eda/HC148/designer/impl1/encoder8_3_1_ba.v
+FD:/project/program/QUARTUS/eda/HC148/designer/impl1/encoder8_3_1_ba.v
+L0 6
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1671283340.000000
+!s107 D:/project/program/QUARTUS/eda/HC148/designer/impl1/encoder8_3_1_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/HC148/designer/impl1/encoder8_3_1_ba.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work postlayout -O0
+Z6 tCvgOpt 0
+vtest
+R1
+!i10b 1
+!s100 I^?kO<JM5oRlmg=0Qf_HI3
+I=LO^3KD9c8B@oCFYIUm4e0
+R2
+R0
+w1668048814
+8D:/project/program/QUARTUS/eda/HC148/stimulus/test.v
+FD:/project/program/QUARTUS/eda/HC148/stimulus/test.v
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/project/program/QUARTUS/eda/HC148/stimulus/test.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/HC148/stimulus|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/HC148/stimulus/test.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+D:/project/program/QUARTUS/eda/HC148/stimulus -vlog01compat -work postlayout -O0
+R6

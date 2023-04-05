@@ -1,0 +1,5 @@
+Selecting top level module HC4511
+@N: CG364 :"D:\project\program\QUARTUS\eda\HC4511\hdl\HC4511.v":23:7:23:12|Synthesizing module HC4511 in library work.
+
+@N: CG179 :"D:\project\program\QUARTUS\eda\HC4511\hdl\HC4511.v":35:19:35:23|Removing redundant assignment.
+@W: CL118 :"D:\project\program\QUARTUS\eda\HC4511\hdl\HC4511.v":33:2:33:3|Latch generated from always block for signal SM_8S[7:0]; possible missing assignment in an if or case statement.

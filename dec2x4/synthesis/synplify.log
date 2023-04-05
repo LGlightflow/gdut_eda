@@ -1,0 +1,106 @@
+
+Starting:    C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\mbin\synbatch.exe
+Install:     C:\Microsemi\Libero_SoC_v11.9\SynplifyPro
+Hostname:    DESKTOP-4E0F6V3
+Date:        Mon Dec 19 14:34:56 2022
+Version:     L-2016.09M-SP1-5
+
+Arguments:   -product synplify_pro -licensetype synplifypro_actel -batch -log synplify.log dec2x4_syn.tcl
+ProductType: synplify_pro
+
+License checkout: synplifypro_actel
+License: synplifypro_actel node-locked 
+Licensed Vendor: actel
+License Option: actel_oem
+
+Running in Vendor Mode
+
+
+log file: "D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.srr"
+
+Running: synthesis in foreground
+
+
+
+Running dec2x4_syn|synthesis
+
+
+Running: compile (Compile) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:56 2022
+
+
+Running: compile_flow (Compile Process) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:56 2022
+
+
+Running: compiler (Compile Input) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:56 2022
+
+Copied D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_comp.srs to D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.srs
+
+
+compiler completed
+# Mon Dec 19 14:34:58 2022
+
+Return Code: 0
+Run Time:00h:00m:02s
+
+
+Running: multi_srs_gen (Multi-srs Generator) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:58 2022
+
+
+multi_srs_gen completed
+# Mon Dec 19 14:34:58 2022
+
+Return Code: 0
+Run Time:00h:00m:00s
+
+Copied D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_mult.srs to D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.srs
+
+Complete: Compile Process on dec2x4_syn|synthesis
+
+
+Running: premap (Pre-mapping) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:58 2022
+
+
+premap completed
+# Mon Dec 19 14:34:59 2022
+
+Return Code: 0
+Run Time:00h:00m:01s
+
+Complete: Compile on dec2x4_syn|synthesis
+
+
+Running: map (Map) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:59 2022
+
+License granted for 4 parallel jobs
+
+
+Running: fpga_mapper (Map & Optimize) on dec2x4_syn|synthesis
+# Mon Dec 19 14:34:59 2022
+
+Copied D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_m.srm to D:\project\program\QUARTUS\eda\dec2x4\synthesis\dec2x4.srm
+
+
+fpga_mapper completed
+# Mon Dec 19 14:35:00 2022
+
+Return Code: 0
+Run Time:00h:00m:01s
+
+Complete: Map on dec2x4_syn|synthesis
+
+Complete: Logic Synthesis on dec2x4_syn|synthesis
+
+TCL script complete: "dec2x4_syn.tcl"
+
+exit status=0
+
+exit status=0
+
+License checkin: synplifypro_actel
+

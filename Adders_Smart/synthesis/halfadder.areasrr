@@ -1,0 +1,12 @@
+----------------------------------------------------------------------
+Report for cell halfadder.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              INBUF         2       0.0        0.0
+                              NOR2B         1       1.0        1.0
+                             OUTBUF         2       0.0        0.0
+                                VCC         1       0.0        0.0
+                               XOR2         1       1.0        1.0
+                            
+                         TOTAL              8                  2.0

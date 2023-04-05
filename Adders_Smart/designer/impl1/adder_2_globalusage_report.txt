@@ -1,0 +1,14 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Date: Sat Nov 12 15:51:07 2022
+Design Name: adder_2  Family: ProASIC3  Die: A3P060  Package: 100 VQFP
+Design State: Post-Layout
+
+
+
+

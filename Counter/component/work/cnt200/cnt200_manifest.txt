@@ -1,0 +1,11 @@
+Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
+
+Date      :  Sat Dec 10 14:13:35 2022
+Project   :  D:\project\program\QUARTUS\eda\Counter
+Component :  cnt200
+Family    :  ProASIC3
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/project/program/QUARTUS/eda/Counter/component/work/cnt200/cnt200.v
+

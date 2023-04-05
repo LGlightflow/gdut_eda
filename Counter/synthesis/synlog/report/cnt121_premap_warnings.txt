@@ -1,0 +1,1 @@
+@W: MT530 :"d:\project\program\quartus\eda\counter\hdl\74hc161.v":28:4:28:9|Found inferred clock cnt121|Clk which controls 8 sequential elements including HC161_0.Q[3:0]. This clock has no specified timing constraint which may adversely impact design performance. 

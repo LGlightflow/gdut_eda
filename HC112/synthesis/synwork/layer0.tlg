@@ -1,0 +1,5 @@
+Selecting top level module HC112
+@N: CG364 :"D:\project\program\QUARTUS\eda\HC112\hdl\HC112.v":1:7:1:11|Synthesizing module HC112 in library work.
+
+@N: CG179 :"D:\project\program\QUARTUS\eda\HC112\hdl\HC112.v":17:13:17:14|Removing redundant assignment.
+@N: CG179 :"D:\project\program\QUARTUS\eda\HC112\hdl\HC112.v":33:13:33:14|Removing redundant assignment.

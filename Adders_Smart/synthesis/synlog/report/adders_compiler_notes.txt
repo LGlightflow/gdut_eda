@@ -1,0 +1,8 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\hdl\Fadd1.v":3:0:3:8|Synthesizing module FA_behav2 in library work.
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\hdl\halfadder.v":21:7:21:15|Synthesizing module halfadder in library work.
+@N: CG364 :"C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1464:7:1464:9|Synthesizing module OR2 in library work.
+@N: CG364 :"D:\project\program\QUARTUS\eda\Adders_Smart\component\work\adders\adders.v":9:7:9:12|Synthesizing module adders in library work.
+@N|Running in 64-bit mode
+

@@ -1,0 +1,73 @@
+# Reading C:/Microsemi/Libero_SoC_v11.9/Modelsim/tcl/vsim/pref.tcl
+# do run.do
+# INFO: Simulation library ../designer/impl1/simulation/postlayout already exists
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap postlayout ../designer/impl1/simulation/postlayout 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap proasic3 C:/Microsemi/Libero_SoC_v11.9/Designer/lib/modelsim/precompiled/vlog/proasic3 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 00:44:43 on Dec 19,2022
+# vlog -reportprogress 300 -vlog01compat -work postlayout D:/project/program/QUARTUS/eda/HC74/designer/impl1/HC74_ba.v 
+# -- Compiling module HC74
+# 
+# Top level modules:
+# 	HC74
+# End time: 00:44:43 on Dec 19,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 00:44:43 on Dec 19,2022
+# vlog -reportprogress 300 "+incdir+D:/project/program/QUARTUS/eda/HC74/stimulus" -vlog01compat -work postlayout D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 00:44:43 on Dec 19,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L proasic3 -L postlayout -t 1ps -sdfmax /HC74_0=D:/project/program/QUARTUS/eda/HC74/designer/impl1/HC74_ba.sdf postlayout.testbench 
+# Start time: 00:44:44 on Dec 19,2022
+# //  ModelSim Microsemi 10.5c Jul 21 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading postlayout.testbench
+# Loading postlayout.HC74
+# Loading proasic3.IOPAD_IN
+# Loading proasic3.AOI1
+# Loading proasic3.DFN1
+# Loading proasic3.IOTRI_OB_EB
+# Loading proasic3.IOIN_IB
+# Loading proasic3.NOR2A
+# Loading proasic3.AO1C
+# Loading proasic3.IOPAD_TRI
+# Loading proasic3.MX2A
+# Loading proasic3.OR2
+# Loading proasic3.AO1B
+# Loading proasic3.CLKIO
+# Loading proasic3.GND
+# Loading proasic3.VCC
+# SDF 10.5c Compiler 2016.07 Jul 21 2016
+# 
+# Loading instances from D:/project/program/QUARTUS/eda/HC74/designer/impl1/HC74_ba.sdf
+# Loading proasic3.Dffpr
+# Loading proasic3.UDP_MUX2
+# Loading timing data from D:/project/program/QUARTUS/eda/HC74/designer/impl1/HC74_ba.sdf
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v
+# ** Note: $finish    : D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v(56)
+#    Time: 400 ns  Iteration: 0  Instance: /testbench
+# 1
+# Break in Module testbench at D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v line 56
+# WARNING: No extended dataflow license exists
+# End time: 00:47:37 on Dec 19,2022, Elapsed time: 0:02:53
+# Errors: 0, Warnings: 1

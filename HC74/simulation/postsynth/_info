@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/HC74/simulation
+vHC74
+!s110 1671381818
+!i10b 1
+!s100 R6bX2TUV<]9i;6T4dPQ]n0
+ILY1?bhmXKEX]3OfD>l20_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671381806
+8D:/project/program/QUARTUS/eda/HC74/synthesis/HC74.v
+FD:/project/program/QUARTUS/eda/HC74/synthesis/HC74.v
+L0 5
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1671381818.000000
+!s107 D:/project/program/QUARTUS/eda/HC74/synthesis/HC74.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/HC74/synthesis/HC74.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postsynth -O0
+Z4 tCvgOpt 0
+n@h@c74
+vtestbench
+!s110 1671381819
+!i10b 1
+!s100 >zJLz_3`1QVSaEBzI0J2a0
+IzbcWPAnjMF7E>hYdXL;Uo1
+R1
+R0
+w1671372198
+8D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v
+L0 30
+R2
+r1
+!s85 0
+31
+!s108 1671381819.000000
+!s107 D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/HC74/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/HC74/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R3
+!s92 +incdir+D:/project/program/QUARTUS/eda/HC74/stimulus -vlog01compat -work postsynth -O0
+R4

@@ -1,0 +1,27 @@
+#OPTIONS:"|-layerid|0|-orig_srs|D:\\project\\program\\QUARTUS\\eda\\Counter\\synthesis\\synwork\\cnt121_comp.srs|-top|cnt121|-prodtype|synplify_pro|-nram|-fixsmult|-divnmod|-I|D:\\project\\program\\QUARTUS\\eda\\Counter\\synthesis\\|-I|C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib|-v2001|-devicelib|C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work|-lib|work"
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\bin64\\c_ver.exe":1509315136
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v":1508984288
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\hypermods.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\umr_capim.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_objects.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_pipes.svh":1508986328
+#CUR:"D:\\project\\program\\QUARTUS\\eda\\Counter\\smartgen\\And4in\\And4in.v":1671423454
+#CUR:"D:\\project\\program\\QUARTUS\\eda\\Counter\\hdl\\74HC161.v":1670654330
+#CUR:"D:\\project\\program\\QUARTUS\\eda\\Counter\\component\\work\\cnt121\\cnt121.v":1671425356
+#numinternalfiles:5
+#defaultlanguage:verilog
+0			"D:\project\program\QUARTUS\eda\Counter\smartgen\And4in\And4in.v" verilog
+1			"D:\project\program\QUARTUS\eda\Counter\hdl\74HC161.v" verilog
+2			"D:\project\program\QUARTUS\eda\Counter\component\work\cnt121\cnt121.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+1 -1
+2 0 1
+#Dependency Lists(Users Of)
+0 2
+1 2
+2 -1
+#Design Unit to File Association
+module work And4in 0
+module work HC161 1
+module work cnt121 2

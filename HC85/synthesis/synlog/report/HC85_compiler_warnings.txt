@@ -1,0 +1,5 @@
+@W: CG296 :"D:\project\program\QUARTUS\eda\HC85\hdl\HC85.v":28:10:28:24|Incomplete sensitivity list; assuming completeness. Make sure all referenced variables in message CG290 are included in the sensitivity list.
+@W: CG290 :"D:\project\program\QUARTUS\eda\HC85\hdl\HC85.v":38:17:38:20|Referenced variable IASB is not in sensitivity list.
+@W: CG290 :"D:\project\program\QUARTUS\eda\HC85\hdl\HC85.v":38:25:38:28|Referenced variable IAEB is not in sensitivity list.
+@W: CG290 :"D:\project\program\QUARTUS\eda\HC85\hdl\HC85.v":38:9:38:12|Referenced variable IAGB is not in sensitivity list.
+

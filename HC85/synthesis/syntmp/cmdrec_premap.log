@@ -1,0 +1,15 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe  -mp  4  -prjfile  D:\project\program\QUARTUS\eda\HC85\synthesis\scratchproject.prs  -implementation  synthesis  -prodtype  synplify_pro   -encrypt  -pro  -rundir  D:\project\program\QUARTUS\eda\HC85\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile D:\project\program\QUARTUS\eda\HC85\synthesis\synlog\report\HC85_premap.xml  -top_level_module  HC85  -oedif  D:\project\program\QUARTUS\eda\HC85\synthesis\HC85.edn  -conchk_prepass  D:\project\program\QUARTUS\eda\HC85\synthesis\HC85_cck.rpt   -freq 100.000   D:\project\program\QUARTUS\eda\HC85\synthesis\synwork\HC85_mult.srs  -flow prepass  -gcc_prepass  -osrd  D:\project\program\QUARTUS\eda\HC85\synthesis\synwork\HC85_prem.srd  -qsap  D:\project\program\QUARTUS\eda\HC85\synthesis\HC85.sap  -devicelib  C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -ologparam  D:\project\program\QUARTUS\eda\HC85\synthesis\syntmp\HC85.plg  -osyn  D:\project\program\QUARTUS\eda\HC85\synthesis\synwork\HC85_prem.srd  -prjdir  D:\project\program\QUARTUS\eda\HC85\synthesis\  -prjname  HC85_syn  -log  D:\project\program\QUARTUS\eda\HC85\synthesis\synlog\HC85_premap.srr 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe -mp 4 -prjfile ..\scratchproject.prs -implementation synthesis -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\HC85_premap.xml -top_level_module HC85 -oedif ..\HC85.edn -conchk_prepass ..\HC85_cck.rpt -freq 100.000 ..\synwork\HC85_mult.srs -flow prepass -gcc_prepass -osrd ..\synwork\HC85_prem.srd -qsap ..\HC85.sap -devicelib C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -ologparam HC85.plg -osyn ..\synwork\HC85_prem.srd -prjdir ..\ -prjname HC85_syn -log ..\synlog\HC85_premap.srr
+rc:0 success:1 runtime:0
+file:..\scratchproject.prs|io:o|time:1671362658|size:1731|exec:0|csum:
+file:..\HC85.edn|io:o|time:0|size:0|exec:0|csum:
+file:..\HC85_cck.rpt|io:o|time:1671362661|size:19938|exec:0|csum:
+file:..\synwork\HC85_mult.srs|io:i|time:1671362660|size:2072|exec:0|csum:27D8A5560EB391438243C20FBBFCDC39
+file:..\synwork\HC85_prem.srd|io:o|time:1671362661|size:2358|exec:0|csum:
+file:..\HC85.sap|io:o|time:1671362661|size:113|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:HC85.plg|io:o|time:1671362661|size:0|exec:0|csum:
+file:..\synwork\HC85_prem.srd|io:o|time:1671362661|size:2358|exec:0|csum:
+file:..\synlog\HC85_premap.srr|io:o|time:1671362661|size:2439|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

@@ -1,0 +1,14 @@
+@P:  Worst Slack : 4.237
+@P:  HC112|Clk1 - Estimated Frequency : 173.5 MHz
+@P:  HC112|Clk1 - Requested Frequency : 100.0 MHz
+@P:  HC112|Clk1 - Estimated Period : 5.763
+@P:  HC112|Clk1 - Requested Period : 10.000
+@P:  HC112|Clk1 - Slack : 4.237
+@P:  HC112|Clk2 - Estimated Frequency : 173.5 MHz
+@P:  HC112|Clk2 - Requested Frequency : 100.0 MHz
+@P:  HC112|Clk2 - Estimated Period : 5.763
+@P:  HC112|Clk2 - Requested Period : 10.000
+@P:  HC112|Clk2 - Slack : 4.237
+@P:  Total Area : 10.0
+@P:  Total Area : 10.0
+@P:  CPU Time : 0h:00m:00s

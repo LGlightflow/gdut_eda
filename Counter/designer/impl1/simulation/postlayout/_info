@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Counter/simulation
+vcnt121
+Z1 !s110 1671425404
+!i10b 1
+!s100 DbkBZdaLdO`5d;o1kn>Wg2
+I=V7k:<N5FM;^TJZ49nA5V0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671425392
+8D:/project/program/QUARTUS/eda/Counter/designer/impl1/cnt121_ba.v
+FD:/project/program/QUARTUS/eda/Counter/designer/impl1/cnt121_ba.v
+L0 6
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1671425404.000000
+!s107 D:/project/program/QUARTUS/eda/Counter/designer/impl1/cnt121_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/Counter/designer/impl1/cnt121_ba.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work postlayout -O0
+Z6 tCvgOpt 0
+vtestbench121
+R1
+!i10b 1
+!s100 5QbQ:NLUzg?]SKF0MiO`g0
+ISQhD3U49N_UiD`Y3P4=O70
+R2
+R0
+w1671422162
+8D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+FD:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Counter/stimulus|-vlog01compat|-work|postlayout|D:/project/program/QUARTUS/eda/Counter/stimulus/testbench121.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+D:/project/program/QUARTUS/eda/Counter/stimulus -vlog01compat -work postlayout -O0
+R6

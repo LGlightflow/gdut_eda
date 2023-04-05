@@ -1,0 +1,8 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe  -link  -multisrs  D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_comp.srs  -osyn  D:\project\program\QUARTUS\eda\dec2x4\synthesis\synwork\dec2x4_mult.srs  -log  D:\project\program\QUARTUS\eda\dec2x4\synthesis\synlog\dec2x4_multi_srs_gen.srr 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe -link -multisrs ..\synwork\dec2x4_comp.srs -osyn ..\synwork\dec2x4_mult.srs -log ..\synlog\dec2x4_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\dec2x4_comp.srs|io:i|time:1671431697|size:1792|exec:0|csum:DD898850129E0B57673557C20A32F40F
+file:..\synwork\dec2x4_mult.srs|io:o|time:1671431698|size:1506|exec:0|csum:
+file:..\synlog\dec2x4_multi_srs_gen.srr|io:o|time:1671431698|size:716|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\syn_nfilter.exe|io:i|time:1508986612|size:3128832|exec:1|csum:962D613D77B03012E41E67FDFAA0D819
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1508986884|size:3947520|exec:1|csum:17B0DA4185D3A16356E0044EDC31C9F0

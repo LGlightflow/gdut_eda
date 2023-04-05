@@ -1,0 +1,2 @@
+@W: MT530 :"d:\project\program\quartus\eda\hc74\hdl\hc74.v":5:4:5:9|Found inferred clock HC74|Clk1 which controls 2 sequential elements including Q1. This clock has no specified timing constraint which may adversely impact design performance. 
+@W: MT530 :"d:\project\program\quartus\eda\hc74\hdl\hc74.v":25:4:25:9|Found inferred clock HC74|Clk2 which controls 2 sequential elements including Q2. This clock has no specified timing constraint which may adversely impact design performance. 

@@ -1,0 +1,21 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Date: Mon Dec 19 12:49:42 2022
+Design Name: cnt121  Family: ProASIC3  Die: A3P060  Package: 100 VQFP
+Design State: Post-Layout
+
+The following nets have been routed to a chip global resource:
+
+    Fanout            Name
+    ----------------------
+    8                 Net   : Clk_c
+                      Driver: Clk_pad/U0/U1/U_GL
+
+
+
+

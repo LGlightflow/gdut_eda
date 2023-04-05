@@ -1,0 +1,56 @@
+----------------------------------------------------------------------
+Report for cell cnt121.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                             And4in         1       2.0        2.0
+                             CLKBUF         1       0.0        0.0
+                                GND         1       0.0        0.0
+                            HC161_0         1      11.0       11.0
+                            HC161_1         1      12.0       12.0
+                              INBUF         1       0.0        0.0
+                             OUTBUF         9       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL             16                 25.0
+----------------------------------------------------------------------
+Report for cell HC161_0.netlist
+  Original Cell name HC161
+     Instance path:  HC161_1
+                                          Cell usage:
+                               cell       count     area    count*area
+                                AO1         1       1.0        1.0
+                           DFN1E1C0         4       1.0        4.0
+                                GND         1       0.0        0.0
+                              NOR2B         2       1.0        2.0
+                              NOR3A         1       1.0        1.0
+                                VCC         1       0.0        0.0
+                                XA1         3       1.0        3.0
+                            
+                         TOTAL             13                 11.0
+----------------------------------------------------------------------
+Report for cell HC161_1.netlist
+  Original Cell name HC161
+     Instance path:  HC161_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                                AX1         1       1.0        1.0
+                             DFN1C0         4       1.0        4.0
+                                GND         1       0.0        0.0
+                               NOR2         1       1.0        1.0
+                              NOR2A         1       1.0        1.0
+                              NOR2B         3       1.0        3.0
+                                VCC         1       0.0        0.0
+                               XA1B         2       1.0        2.0
+                            
+                         TOTAL             14                 12.0
+----------------------------------------------------------------------
+Report for cell And4in.netlist
+     Instance path:  And4in_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                               AND2         1       1.0        1.0
+                               AND3         1       1.0        1.0
+                                GND         1       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              4                  2.0

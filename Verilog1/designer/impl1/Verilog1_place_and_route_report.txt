@@ -1,0 +1,219 @@
+***************************************************************************
+                               Status Report
+                          Thu Nov 10 12:08:15 2022 ***************************************************************************
+
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+File Name: D:\project\program\QUARTUS\eda\Verilog1\designer\impl1\Verilog1.adb
+Design Name: Verilog1  Design State: layout
+Last Saved: Thu Nov 10 12:08:05 2022
+
+***** Device Data **************************************************
+
+Family: ProASIC3  Die: A3P060  Package: 100 VQFP
+Speed: STD  Voltage: 1.5
+
+Restrict JTAG Pins: YES
+Restrict Probe Pins: YES
+
+Junction Temperature Range:   COM
+Voltage Range:   COM
+
+***** Import Variables *********************************************
+
+Source File(s) Imported on Thu Nov 10 12:08:02 2022:
+        D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog1.edn
+
+
+***** CAE Variables ************************************************
+
+Back Annotation File: N/A
+
+
+***** Bitstream Variables ******************************************
+
+Bitstream File: N/A
+     Lock Mode: OFF
+
+
+***** Compile Variables ********************************************
+
+Netlist PIN properties overwrite existing properties: 0
+
+Compile Output:
+=====================================================================
+Parameters used to run compile:
+===============================
+
+Family      : ProASIC3
+Device      : A3P060
+Package     : 100 VQFP
+Source      : D:\project\program\QUARTUS\eda\Verilog1\synthesis\Verilog1.edn
+Format      : EDIF
+Topcell     : Verilog1
+Speed grade : STD
+Temp        : 0:25:70
+Voltage     : 1.58:1.50:1.42
+
+Keep Existing Physical Constraints : No
+Keep Existing Timing Constraints   : Yes
+
+pdc_abort_on_error                 : Yes
+pdc_eco_display_unmatched_objects  : No
+pdc_eco_max_warnings               : 10000
+
+demote_globals                     : No
+promote_globals                    : No
+localclock_max_shared_instances    : 12
+localclock_buffer_tree_max_fanout  : 12
+
+combine_register                   : No
+delete_buffer_tree                 : No
+
+report_high_fanout_nets_limit      : 10
+
+=====================================================================
+Compile starts ...
+
+
+Netlist Optimization Report
+===========================
+
+Optimized macros:
+  - Dangling net drivers:   0
+  - Buffers:                0
+  - Inverters:              0
+  - Tieoff:                 0
+  - Logic combining:        0
+
+    Total macros optimized  0
+
+There were 0 error(s) and 0 warning(s) in this design.
+=====================================================================
+Compile report:
+===============
+
+    CORE                       Used:      1  Total:   1536   (0.07%)
+    IO (W/ clocks)             Used:      4  Total:     71   (5.63%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Global Information:
+
+    Type            | Used   | Total
+    ----------------|--------|--------------
+    Chip global     | 0      | 6  (0.00%)*
+    Quadrant global | 0      | 12 (0.00%)
+
+    (*) Chip globals may be assigned to Quadrant globals using the Multi-View Navigator (MVN)
+        or Physical Design Constraints (PDC).
+        They may also be assigned to Quadrant globals automatically during Layout.
+
+Core Information:
+
+    Type    | Instances    | Core tiles
+    --------|--------------|-----------
+    COMB    | 1            | 1
+    SEQ     | 0            | 0
+
+I/O Function:
+
+    Type                                  | w/o register  | w/ register  | w/ DDR register
+    --------------------------------------|---------------|--------------|----------------
+    Input I/O                             | 3             | 0            | 0
+    Output I/O                            | 1             | 0            | 0
+    Bidirectional I/O                     | 0             | 0            | 0
+    Differential Input I/O Pairs          | 0             | 0            | 0
+    Differential Output I/O Pairs         | 0             | 0            | 0
+
+I/O Technology:
+
+                                    |   Voltages    |             I/Os
+    --------------------------------|-------|-------|-------|--------|--------------
+    I/O Standard(s)                 | Vcci  | Vref  | Input | Output | Bidirectional
+    --------------------------------|-------|-------|-------|--------|--------------
+    LVTTL                           | 3.30v | N/A   | 3     | 1      | 0
+
+I/O Placement:
+
+    Locked  :   0
+    Placed  :   0
+    UnPlaced:   4 ( 100.00% )
+
+Net information report:
+=======================
+
+High fanout nets in the post compile netlist:
+    Fanout  Type          Name
+    --------------------------
+    1       INT_NET       Net   : A_c
+                          Driver: A_pad
+    1       INT_NET       Net   : B_c
+                          Driver: B_pad
+    1       INT_NET       Net   : C_c
+                          Driver: C_pad
+    1       INT_NET       Net   : Y_c
+                          Driver: Y
+
+Nets that are candidates for clock assignment and the resulting fanout:
+    Fanout  Type          Name
+    --------------------------
+    1       INT_NET       Net   : A_c
+                          Driver: A_pad
+    1       INT_NET       Net   : B_c
+                          Driver: B_pad
+    1       INT_NET       Net   : C_c
+                          Driver: C_pad
+    1       INT_NET       Net   : Y_c
+                          Driver: Y
+
+
+Layout Output:
+***** Layout Variables *********************************************
+
+Mode: TIMING_DRIVEN
+Power-driven Layout: OFF
+Incremental Placement: OFF
+Incremental Route: OFF
+
+
+
+Running I/O Bank Assigner.
+
+I/O Bank Assigner completed successfully.
+
+
+Planning global net placement...
+
+Global net placement completed successfully.
+
+                        o - o - o - o - o - o
+
+Timing-driven Placer Started: Thu Nov 10 12:08:09 2022
+
+Placer Finished: Thu Nov 10 12:08:10 2022
+Total Placer CPU Time:     00:00:01
+
+                        o - o - o - o - o - o
+
+
+Timing-driven Router 
+Design: Verilog1                        Started: Thu Nov 10 12:08:11 2022
+
+ 
+
+Timing-driven Router completed successfully.
+
+Design: Verilog1                        
+Finished: Thu Nov 10 12:08:13 2022
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:02
+Total Memory Usage: 105.8 Mbytes
+                        o - o - o - o - o - o
+
+
+

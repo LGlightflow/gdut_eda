@@ -1,0 +1,50 @@
+----------------------------------------------------------------------
+Report for cell adder_3.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                         Core_adder         1       4.0        4.0
+                                GND         1       0.0        0.0
+                              INBUF         5       0.0        0.0
+                               MAJ3         1       1.0        1.0
+                                OR2         1       1.0        1.0
+                             OUTBUF         6       0.0        0.0
+                                VCC         1       0.0        0.0
+                               XOR3         1       1.0        1.0
+                        halfadder_1         1       1.0        1.0
+                      halfadder_1_0         1       2.0        2.0
+                            
+                         TOTAL             19                 10.0
+----------------------------------------------------------------------
+Report for cell halfadder_1_0.netlist
+  Original Cell name halfadder_1
+     Instance path:  halfadder_1
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                                VCC         1       0.0        0.0
+                                XA1         1       1.0        1.0
+                               XOR3         1       1.0        1.0
+                            
+                         TOTAL              4                  2.0
+----------------------------------------------------------------------
+Report for cell halfadder_1.netlist
+  Original Cell name halfadder
+     Instance path:  halfadder_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              NOR2B         1       1.0        1.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              3                  1.0
+----------------------------------------------------------------------
+Report for cell Core_adder.netlist
+     Instance path:  Core_adder_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                               MAJ3         2       1.0        2.0
+                                VCC         1       0.0        0.0
+                               XOR3         2       1.0        2.0
+                            
+                         TOTAL              6                  4.0

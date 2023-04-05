@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="datasheet.xsl"?>
+<datasheet>
+  <header>adder_2</header>
+  <project-settings>
+    <fam>ProASIC3</fam>
+    <die>A3P060</die>
+    <package>100 VQFP</package>
+    <speed-grade>STD</speed-grade>
+    <voltage>1.5</voltage>
+    <hdl-type>Verilog</hdl-type>
+    <project-description>
+    </project-description>
+    <location>D:/project/program/QUARTUS/eda/Adders_Smart/component/work/adder_2</location>
+    <state>GENERATED ( Sat Nov 12 15:43:41 2022 )</state>
+    <swide-toolchain>SoftConsole workspace has not been generated</swide-toolchain>
+  </project-settings>
+  <site-map>
+  </site-map>
+  <fileset>
+    <name>HDL File(s)</name>
+    <file>D:\project\program\QUARTUS\eda\Adders_Smart\component\work\adders\adders.v</file>
+    <file>D:\project\program\QUARTUS\eda\Adders_Smart\component\work\adder_2\adder_2.v</file>
+    <file>D:\project\program\QUARTUS\eda\Adders_Smart\hdl\Fadd1.v</file>
+    <file>D:\project\program\QUARTUS\eda\Adders_Smart\hdl\halfadder.v</file>
+    <file>D:\project\program\QUARTUS\eda\Adders_Smart\smartgen\Core_adder\Core_adder.v</file>
+  </fileset>
+  <io>
+    <port-name>S0</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B1</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Cout</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A0</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Core_Sum[1]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Core_Cout</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Cin</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B0</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A1</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>S1</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>Core_Sum[0]</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <core type="ComponentModule">
+    <core-type>ComponentModule</core-type>
+    <core-exttype>SmartGen</core-exttype>
+    <core-location>D:/project/program/QUARTUS/eda/Adders_Smart/smartgen/Core_adder</core-location>
+    <core-name>Core_adder_0</core-name>
+  </core>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>FA_behav2</core-exttype>
+    <core-location>hdl\Fadd1.v</core-location>
+    <core-name>FA_behav2_0</core-name>
+  </core>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>halfadder</core-exttype>
+    <core-location>hdl\halfadder.v</core-location>
+    <core-name>halfadder_0</core-name>
+  </core>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>halfadder</core-exttype>
+    <core-location>hdl\halfadder.v</core-location>
+    <core-name>halfadder_1</core-name>
+  </core>
+  <core type="AdlibModule">
+    <core-type>AdlibModule</core-type>
+    <core-exttype>OR2</core-exttype>
+    <core-name>OR2_0</core-name>
+  </core>
+  <memorysystem>
+    <title>Memory Map for adder_2</title>
+    <description>The project does not contain any subsystems.</description>
+  </memorysystem>
+</datasheet>

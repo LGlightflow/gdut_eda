@@ -1,0 +1,2 @@
+@W: CL118 :"D:\project\program\QUARTUS\eda\HC4511\hdl\HC4511.v":33:2:33:3|Latch generated from always block for signal SM_8S[7:0]; possible missing assignment in an if or case statement.
+

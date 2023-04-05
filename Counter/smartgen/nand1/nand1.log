@@ -1,0 +1,37 @@
+ ** Message System Log
+ ** Database: 
+ ** Date:   Sat Dec 10 09:37:10 2022
+
+
+****************
+Macro Parameters
+****************
+
+Name                            : nand1
+Family                          : PA3LC
+Output Format                   : VERILOG
+Type                            : AND(Nand)
+Nb of Inputs                    : 2
+Result                          : Active High
+
+**************
+Compile Report
+**************
+
+
+Netlist Resource Report
+=======================
+
+    CORE                       Used:      1  Total:   1536   (0.07%)
+    IO (W/ clocks)             Used:      0  Total:     71   (0.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Wrote Verilog netlist to D:/project/program/QUARTUS/eda/Counter/smartgen\nand1\nand1.v.
+
+ ** Log Ended:   Sat Dec 10 09:37:10 2022
+

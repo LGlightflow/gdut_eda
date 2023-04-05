@@ -1,0 +1,10 @@
+HelpInfo,C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\html,fpgahelp.qhc,errormessages.mp,C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\mbin\assistant
+Implementation;Synthesis;RootName:cnt121
+Implementation;Synthesis|| MT530 ||@W:Found inferred clock cnt121|Clk which controls 8 sequential elements including HC161_0.Q[3:0]. This clock has no specified timing constraint which may adversely impact design performance. ||cnt121.srr(116);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Counter\synthesis\cnt121.srr'/linenumber/116||74hc161.v(28);liberoaction://cross_probe/hdl/file/'d:\project\program\quartus\eda\counter\hdl\74hc161.v'/linenumber/28
+Implementation;Synthesis|| MT420 ||@W:Found inferred clock cnt121|Clk with period 10.00ns. Please declare a user-defined clock on object "p:Clk"||cnt121.srr(243);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Counter\synthesis\cnt121.srr'/linenumber/243||null;null
+Implementation;Synthesis|| MT320 ||@N: This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.||cnt121.srr(259);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Counter\synthesis\cnt121.srr'/linenumber/259||null;null
+Implementation;Synthesis|| MT322 ||@N: Clock constraints include only register-to-register paths associated with each individual clock.||cnt121.srr(261);liberoaction://cross_probe/hdl/file/'D:\project\program\QUARTUS\eda\Counter\synthesis\cnt121.srr'/linenumber/261||null;null
+Implementation;Compile;RootName:cnt121
+Implementation;Compile||(null)||Please refer to the log file for details about 1 Warning(s) , 1 Info(s)||cnt121_compile_log.rpt;liberoaction://open_report/file/cnt121_compile_log.rpt||(null);(null)
+Implementation;Place and Route;RootName:cnt121
+Implementation;Place and Route||(null)||Please refer to the log file for details about 1 Info(s)||cnt121_placeroute_log.rpt;liberoaction://open_report/file/cnt121_placeroute_log.rpt||(null);(null)

@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/HC112/simulation
+vHC112
+Z1 !s110 1671376288
+!i10b 1
+!s100 mI_]_zfORK_]]S33nbo^?2
+IC9@dTK8BOnjoU8RBS`GK11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671376272
+8D:/project/program/QUARTUS/eda/HC112/synthesis/HC112.v
+FD:/project/program/QUARTUS/eda/HC112/synthesis/HC112.v
+L0 5
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1671376287.000000
+!s107 D:/project/program/QUARTUS/eda/HC112/synthesis/HC112.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/HC112/synthesis/HC112.v|
+!s101 -O0
+!i113 1
+Z4 o-vlog01compat -work postsynth -O0
+Z5 tCvgOpt 0
+n@h@c112
+vtestbench
+R1
+!i10b 1
+!s100 X=2iBRz8<gaXUAbT<OG_W2
+Ii[_G^gBn56mGS<7c=>C;^3
+R2
+R0
+w1671374005
+8D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v
+FD:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1671376288.000000
+!s107 D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/HC112/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/HC112/stimulus/testbench.v|
+!s101 -O0
+!i113 1
+R4
+!s92 +incdir+D:/project/program/QUARTUS/eda/HC112/stimulus -vlog01compat -work postsynth -O0
+R5

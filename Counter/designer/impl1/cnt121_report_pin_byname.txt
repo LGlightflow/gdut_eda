@@ -1,0 +1,23 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 19 12:49:43 2022 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: cnt121
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port  |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+C      41   No     IO59RSB1       LVTTL    12                 High  None           No    35                No           No
+Clk    61   No     GCB2/IO42RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+MR     94   No     GAC0/IO06RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+QH[0]  91   No     IO09RSB0       LVTTL    12                 High  None           No    35                No           No
+QH[1]  86   No     IO11RSB0       LVTTL    12                 High  None           No    35                No           No
+QH[2]  90   No     IO10RSB0       LVTTL    12                 High  None           No    35                No           No
+QH[3]  85   No     IO13RSB0       LVTTL    12                 High  None           No    35                No           No
+QL[0]  92   No     IO08RSB0       LVTTL    12                 High  None           No    35                No           No
+QL[1]  93   No     GAC1/IO07RSB0  LVTTL    12                 High  None           No    35                No           No
+QL[2]  42   No     IO58RSB1       LVTTL    12                 High  None           No    35                No           No
+QL[3]  43   No     IO57RSB1       LVTTL    12                 High  None           No    35                No           No

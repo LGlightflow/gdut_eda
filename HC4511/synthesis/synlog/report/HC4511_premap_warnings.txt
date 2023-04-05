@@ -1,0 +1,1 @@
+@W: MT530 :"d:\project\program\quartus\eda\hc4511\hdl\hc4511.v":33:2:33:3|Found inferred clock HC4511|LE which controls 7 sequential elements including SM_8S[6:0]. This clock has no specified timing constraint which may adversely impact design performance. 

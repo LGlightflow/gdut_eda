@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/project/program/QUARTUS/eda/Verilog1/simulation
+vtestbunch
+!s110 1671191415
+!i10b 1
+!s100 U28c1=am]ZP95P56<h]^g0
+I5k0QIZ=0E8bJWg14o6L6L1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1671191377
+8D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v
+FD:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v
+L0 90
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1671191415.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v|
+!s90 -reportprogress|300|+incdir+D:/project/program/QUARTUS/eda/Verilog1/stimulus|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Verilog1/stimulus/testbunch.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postsynth -O0
+!s92 +incdir+D:/project/program/QUARTUS/eda/Verilog1/stimulus -vlog01compat -work postsynth -O0
+Z4 tCvgOpt 0
+vVerilog1
+!s110 1668053329
+!i10b 1
+!s100 YbTD?h5G5eUT<XXBdmSZ;2
+IEjn]0n6[@XCXJ5a8I[1]]1
+R1
+R0
+w1668053316
+8D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog1.v
+FD:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog1.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1668053329.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog1.v|
+!s101 -O0
+!i113 1
+R3
+R4
+n@verilog1
+vVerilog2
+!s110 1671191414
+!i10b 1
+!s100 m_I=^35jdPzOYRX7lW=2W3
+IYagSGnmOHCMVW]2i0Q@X41
+R1
+R0
+w1671191400
+8D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog2.v
+FD:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog2.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1671191414.000000
+!s107 D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/project/program/QUARTUS/eda/Verilog1/synthesis/Verilog2.v|
+!s101 -O0
+!i113 1
+R3
+R4
+n@verilog2
